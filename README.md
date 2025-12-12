@@ -10,7 +10,7 @@ Estudante da Cesar School, no curso de Análise e Desenvolvimento de Sistemas; s
 ---
 
 ## Sobre Mim
-- 🎓 Estudante da **Cesar School**
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas **(ADS)** na **Cesar School**
 - 💡 Apaixonado por tecnologia, automações e desenvolvimento web
 - 🚀 Sempre criando novos projetos para solucionar problemas reais
 - 📍 Recife, Pernambuco; **Brazil**🇧🇷
@@ -20,13 +20,12 @@ Estudante da Cesar School, no curso de Análise e Desenvolvimento de Sistemas; s
 
 ## ☎️ Contato
 <p align="center">
-  <a href="mailto:lpp2@cesar.school"><img src="https://img.icons8.com/ios-filled/40/ffffff/new-post.png" alt="Email" style="margin-right:20px;"></a>
-  <a href="https://www.linkedin.com/in/lucaspaguettipereira"><img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" style="margin-right:20px;"></a>
-  <a href="https://www.instagram.com/lucpaguetti"><img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" style="margin-right:20px;"></a>
   <a href="https://github.com/wqiluc"><img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" alt="GitHub" style="margin-right:20px;"></a>
+  <a href="https://www.linkedin.com/in/lucaspaguettipereira"><img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" style="margin-right:20px;"></a>
+  <a href="mailto:lpp2@cesar.school"><img src="https://img.icons8.com/ios-filled/40/ffffff/new-post.png" alt="Email" style="margin-right:20px;"></a>
+  <a href="https://www.instagram.com/lucpaguetti"><img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" style="margin-right:20px;"></a>
   <a href="https://discord.com/users/lucaspaguettipereira"><img src="https://img.icons8.com/?size=100&id=30998&format=png&color=ffffff" width="40px"/></a>
 </p>
-
 
 ---
 
@@ -89,7 +88,6 @@ Perfeito para apresentação de projetos escolares e feiras tecnológicas.
 🏥🥼 4 - Sistema CRUD Saúde (Cadastro, Consulta e Gerenciamento)
 - 🔗 Repositório: https://github.com/eduardo-scavalcanti/projetofp-crud
 - Líder👑 = **Eduardo de Souza Cavalcanti Junior**
-<br>
 - Github dele: https://github.com/eduardo-scavalcanti
 
 - **Um projeto inspirado no funcionamento de sistemas como o SUS, permitindo o gerenciamento de pacientes, atendimentos e informações médicas por meio de operações CRUD.**
