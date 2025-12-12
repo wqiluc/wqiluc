@@ -19,9 +19,9 @@ Estudante da Cesar School, no curso de Análise e Desenvolvimento de Sistemas; s
 ---
 
 ## ☎️ Contato
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/wqiluc"><img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" alt="GitHub" style="margin-right:20px;"></a>
-  <a href="https://www.linkedin.com/in/lucaspaguettipereira"><img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" style="margin-right:20px;"></a>
+  <a href="https://www.linkedin.com/in/lucas-paguetti-pereira" img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" style="margin-right:20px;"></a>
   <a href="mailto:lpp2@cesar.school"><img src="https://img.icons8.com/ios-filled/40/ffffff/new-post.png" alt="Email" style="margin-right:20px;"></a>
   <a href="https://www.instagram.com/lucpaguetti"><img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" style="margin-right:20px;"></a>
   <a href="https://discord.com/users/lucaspaguettipereira"><img src="https://img.icons8.com/?size=100&id=30998&format=png&color=ffffff" width="40px"/></a>
