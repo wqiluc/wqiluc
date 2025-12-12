@@ -9,7 +9,7 @@ Estudante da Cesar School, no curso de Análise e Desenvolvimento de Sistemas; s
 
 ---
 
-## Sobre Mim
+## 🏂 Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas **(ADS)** na **Cesar School**
 - 💡 Apaixonado por tecnologia, automações e desenvolvimento web
 - 🚀 Sempre criando novos projetos para solucionar problemas reais
