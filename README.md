@@ -48,7 +48,7 @@ Estudante da Cesar School, no curso de Análise e Desenvolvimento de Sistemas; s
 
 ---
 
-## 📂 Projetos em Destaque
+## 🗂️ Projetos em Destaque
 
 🚛💰 1 - Frete Ecommerce – Sistema de Cálculo de Frete para E-commerce
 - 🔗 Repositório: https://github.com/wqiluc/Sistema-de-frete-ecommerces-em-python-com-frontending
