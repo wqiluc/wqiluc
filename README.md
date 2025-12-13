@@ -44,7 +44,7 @@ Estudante da Cesar School, no curso de Análise e Desenvolvimento de Sistemas; s
 
 ---
 
-**⛏️💻 Tecnologias e Stacks**
+## ⛏️💻 Tecnologias e Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -58,8 +58,6 @@ Estudante da Cesar School, no curso de Análise e Desenvolvimento de Sistemas; s
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-
-<br>
 
 ---
 
@@ -96,6 +94,9 @@ Ideal para e-commerces, sistemas logísticos e integrações backend/frontend.
 - Site completo com páginas de equipe, protótipo, detalhes técnicos e FAQ.
 Perfeito para apresentação de projetos escolares e feiras tecnológicas.
 
+- Líder👑 = **Helamã Leone de Lima Procídio**
+- Github dele: https://github.com/procidiohelama-star
+
 <p align="center"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> </p>
 
 ---
@@ -126,9 +127,6 @@ Perfeito para apresentação de projetos escolares e feiras tecnológicas.
 
 Se quiser trocar ideia sobre **projetos, código, TI ou estudo**, me chama!  
 Sempre aberto para colaborar e aprender mais. 😄
-
-
-<br><br>
 
 
 <p align="center"> 
