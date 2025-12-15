@@ -119,6 +119,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 </p>
 <br>
+  - Full backending
+<br>
 
 <h2 align="center">🚀 Vamos nos conectar?</h2>
 <br>
