@@ -95,6 +95,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"
 </p>
+<br>
 - Full Stack (frontending & backending)
 <br>
 
