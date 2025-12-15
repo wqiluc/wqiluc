@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh4Y3F1eGV6c2R4ZmFzY3R1ZTR5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRGoqbUQvk8nwTC/giphy.gif" width="700">
 </p>
-<br>
 
 <h1 align="center">👋 Olá, é um prazer em te conhecer. Me chamo <strong>Lucas Paguetti</strong></h1>
 <br>
