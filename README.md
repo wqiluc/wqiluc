@@ -134,8 +134,6 @@ Perfeito para apresentação de projetos escolares e feiras tecnológicas.
 Se quiser trocar ideia sobre **projetos, código, TI ou estudo**, me chama!  
 Sempre aberto para colaborar e aprender mais. 😄
 
-
-<p align="center"> 
-<img esrc="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5nbHV5ODN4aWJ6MnVuZW1xeXV4NmY5bHR3bHA0bGRqM2VpczhvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="260">
-
-
+<div align="center">
+  <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="300">
+</div
