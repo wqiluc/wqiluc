@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. Desenvolvedor que busca solucionar problemas reais e impactar vidas com tecnologia.
+Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. Desenvolvedor que busca solucionar problemas reais e facilitar a vida com tecnologia.
 </p>
 <br>
 
