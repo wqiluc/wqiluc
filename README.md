@@ -122,13 +122,10 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   - Full backending
 </p>
 
-<br>
-
 <h2 align="center">🚀 Vamos nos conectar?</h2>
 <br>
 
 Se quiser trocar ideia sobre **projetos, código, TI ou estudo**, me chama! Sempre aberto para colaborar e aprender mais. 😄
-<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="300">
