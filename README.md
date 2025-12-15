@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh4Y3F1eGV6c2R4ZmFzY3R1ZTR5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRGoqbUQvk8nwTC/giphy.gif" width="700">
+</p>
+
 # 👋 Olá, prazer em te conhecer. Me chamo **Lucas Paguetti**
 
 Estudante da Cesar School, no curso de Análise e Desenvolvimento de Sistemas; sou um Desenvolvedor que busca solucionar problemas reais e que impactam a vida das pessoas atráves de tecnologia.
@@ -132,6 +136,6 @@ Sempre aberto para colaborar e aprender mais. 😄
 
 
 <p align="center"> 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5nbHV5ODN4aWJ6MnVuZW1xeXV4NmY5bHR3bHA0bGRqM2VpczhvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="260">
+<img esrc="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5nbHV5ODN4aWJ6MnVuZW1xeXV4NmY5bHR3bHA0bGRqM2VpczhvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="260">
 
 
