@@ -56,6 +56,7 @@ Estudante da Cesar School, no curso de Análise e Desenvolvimento de Sistemas; s
   <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 
