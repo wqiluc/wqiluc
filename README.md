@@ -118,8 +118,12 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 </p>
+
 <br>
+<p align="center">
   - Full backending
+</p>
+
 <br>
 
 <h2 align="center">🚀 Vamos nos conectar?</h2>
