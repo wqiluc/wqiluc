@@ -57,11 +57,10 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,python,html,css,javascript,nodejs,npm,flask,figma&theme=dark&size=48"/>
-  <img src="https://cdn.simpleicons.org/render/ffffff" alt="Render Logo" width="48" />
+  <img src="https://cdn.simpleicons.org/render/ffffff" alt="Render" width="48" />
+  <img src="https://cdn.simpleicons.org/json/ffffff" alt="JSON" width="48" />
 </p>
 
-  <img src="https://img.icons8.com/ios-filled/48/ffffff/json.png" />
-</p>
 <br>
 
 <h2 align="center">🗂️ Projetos em Destaque</h2>
