@@ -53,12 +53,20 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <h2 align="center">⛏️💻 Tecnologias e Stacks</h2>
-<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,python,html,css,javascript,nodejs,npm,flask,figma&theme=dark&size=48"/>
-  <img src="https://cdn.simpleicons.org/render/ffffff" alt="Render" width="48" />
-  <img src="https://cdn.simpleicons.org/json/ffffff" alt="JSON" width="48" />
+  <img 
+    src="https://skillicons.dev/icons?i=git,github,python,html,css,javascript,nodejs,npm,flask,figma&theme=dark&size=48"
+    style="vertical-align: middle; margin: 4px;"/>
+  <img   src="https://cdn.simpleicons.org/render/ffffff"
+    alt="Render"
+    width="48"
+    style="vertical-align: middle; margin: 4px;"/>
+  <img  src="https://cdn.simpleicons.org/json/ffffff"
+    alt="JSON"
+    width="48"
+    style="vertical-align: middle; margin: 4px;"/>
+  <img src="https://skillicons.dev/icons?i=aws&size=48"/>
 </p>
 
 <br>
