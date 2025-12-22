@@ -41,7 +41,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" style="margin-right:20px;">
   </a>
   <a href="mailto:lpp2@cesar.school">
-    <img src="https://img.icons8.com/ios-filled/40/ffffff/new-post.png" alt="Email" style="margin-right:20px;">
+<img src="https://skillicons.dev/icons?i=gmail" height="38"/>
   </a>
   <a href="https://www.instagram.com/lucpaguetti" target="_blank">
     <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" style="margin-right:20px;">
