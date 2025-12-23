@@ -12,10 +12,14 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <p align="center">
   <a href="https://github.com/wqiluc">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github&color=dc2626"/>
   </a>
-  <img alt="Tema do github" src="https://img.shields.io/badge/Theme-Dark%20Aesthetic-111827?style=for-the-badge">
+  <img 
+    alt="Tema do GitHub"    src="https://img.shields.io/badge/Theme-Dark%20Aesthetic-111827?style=for-the-badge"/>
+  <img 
+    alt="Foco em Código Limpo"  src="https://img.shields.io/badge/Foco-Código%20Limpo-dc2626?style=for-the-badge&logo=eslint&logoColor=white"/>
 </p>
+
 <br>
 
 <div align="center">
@@ -35,16 +39,16 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <p align="center">
   <a href="https://github.com/wqiluc" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" alt="GitHub" style="margin-right:20px;">
+   <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-paguetti-pereira" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" style="margin-right:20px;">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="mailto:lpp2@cesar.school">
-<img src="https://skillicons.dev/icons?i=gmail" height="38"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   <a href="https://www.instagram.com/lucpaguetti" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" style="margin-right:20px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
   <a href="https://discord.com/users/lucaspaguettipereira" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=ffffff" width="40" alt="Discord">
@@ -65,7 +69,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <br>
 
-<h2 align="center">🗂️ Projetos em Destaque</h2>
+<h2 align="center"> 🗂️💼 Projetos em Destaque</h2>
 <br>
 
 <p>🚛💰 1 - Frete Ecommerce – Sistema de Cálculo de Frete para E-commerce</p>
