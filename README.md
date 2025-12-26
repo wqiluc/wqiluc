@@ -106,7 +106,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 </p>
 
-<p>🗑️⚙️ 3 - Lixeira Automática – Projeto da cadeira: Sistemas Digitais</p>
+<p>🗑️⚙️ 3 - Lixeira Automática – Projeto da disciplina: Sistemas Digitais</p>
 <p>- 🔗 Repositório: <a href="https://github.com/wqiluc/Lixeira-Automa-tica-SD">Link</a></p>
 <p>- Site completo com páginas de equipe, protótipo, detalhes técnicos e FAQ.</p>
 <br>
@@ -136,7 +136,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p>⚙️ Projeto - Porto Digital: Capacita+</p>
-<p>- 🔗Repositório: 
+<p>- 🔗 Repositório: 
   <a href="https://github.com/wqiluc/Certificado-PortoDigital-CapacitaMais" target="_blank">Link</a>
 </p>
 
