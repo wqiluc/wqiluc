@@ -163,7 +163,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <p>🐍 Mundos de Python — Curso em Vídeo</p>
 <p>- 🔗 Repositório: 
-  <a href="https://github.com/wqiluc/Mundos-Python-Curso-em-video" target="_blank">Link</a>
+  <a href="https://github.com/wqiluc/Mundos-Python-CursoemVideo" target="_blank">Link</a>
 </p>
 
 <p align="center">
