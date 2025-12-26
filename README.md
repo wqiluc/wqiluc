@@ -136,7 +136,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p>⚙️ Projeto - Porto Digital: Capacita+</p>
-<p>- 🔗: 
+<p>- 🔗Repositório: 
   <a href="https://github.com/wqiluc/Certificado-PortoDigital-CapacitaMais" target="_blank">Link</a>
 </p>
 
