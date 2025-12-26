@@ -12,13 +12,14 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <p align="center">
   <a href="https://github.com/wqiluc">
-    <img src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github&color=dc2626"/>
+    <img src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github&color=C0C0C0"/>
   </a>
   <img 
-    alt="Tema do GitHub"    src="https://img.shields.io/badge/Theme-Dark%20Aesthetic-111827?style=for-the-badge"/>
-  <img 
-    alt="Foco em Código Limpo"  src="https://img.shields.io/badge/Foco-Código%20Limpo-dc2626?style=for-the-badge&logo=eslint&logoColor=white"/>
-</p>
+    alt="Tema do GitHub" src="https://img.shields.io/badge/Theme-Dark%20Aesthetic-C0C0C0?style=for-the-badge"/>
+<img 
+    alt="Foco em Projetos" src="https://img.shields.io/badge/Projetos-1ABCFE?style=for-the-badge&logo=task&logoColor=white"/>
+<img 
+    alt="Produtividade" src="https://img.shields.io/badge/🧭%20Produtividade-FFFFFF?style=for-the-badge&logoColor=111827"/>
 
 <br>
 
@@ -130,10 +131,54 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   - Full backending
 </p>
 
+<h2 align="center">📚✅ Estudos e Certificações</h2>
+
+<br>
+
+<p>⚙️ Projeto - Porto Digital: Capacita+</p>
+<p>- 🔗: 
+  <a href="https://github.com/wqiluc/Certificado-PortoDigital-CapacitaMais" target="_blank">Link</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Project%20Management-0f172a?style=flat-square&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-1ABCFE?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
+</p>
+
+<br>
+
+<p>🌐 Git & GitHub — Curso em Vídeo</p>
+<p>- 🔗 Repositório: 
+  <a href="https://github.com/wqiluc/Git-Github-Curso-em-Video" target="_blank">Link</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+<br>
+
+<p>🐍 Mundos de Python — Curso em Vídeo</p>
+<p>- 🔗 Repositório: 
+  <a href="https://github.com/wqiluc/Mundos-Python-Curso-em-video" target="_blank">Link</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+
 <h2 align="center">🚀 Vamos nos conectar?</h2>
 <br>
 
-Se quiser trocar ideia sobre **projetos, código, TI ou estudo**, me chama! Sempre aberto para colaborar e aprender mais. 😄
+<p align="center">
+Se quiser trocar ideias sobre projetos, estudos, dúvidas ou tecnologia,  
+fique à vontade para entrar em contato 👋
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="300">
