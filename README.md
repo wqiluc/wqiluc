@@ -72,7 +72,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p align="center" style="font-size:1.2em;">1️⃣ 🚛💰 Frete E-commerce – Sistema de Cálculo de Frete para E-commerce</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Sistema-de-frete-ecommerces-em-python-com-frontending">🔗 Ver Projeto</a></p>
+<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Sistema-de-frete-ecommerces-em-python-com-frontending">🔗Ver Projeto ==> </a></p>
 <p align="center">Aplicação web em Python + Flask para cálculo de frete baseado no peso dos produtos e na região de entrega.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
@@ -85,7 +85,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p align="center" style="font-size:1.2em;">2️⃣ 🎬🍿 Cinema – Sistema de Reservas em Flask</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Cinema-Python-Flask">🔗 Ver Projeto</a></p>
+<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Cinema-Python-Flask">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema de reservas de cinema com rotas Flask, templates, interface limpa e experiência de usuário intuitiva.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -103,7 +103,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p align="center" style="font-size:1.2em;">3️⃣ 🗑️⚙️ Lixeira Automática – Projeto da disciplina: Sistemas Digitais</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Lixeira-Automa-tica-SD">🔗 Ver Projeto</a></p>
+<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Lixeira-Automa-tica-SD">🔗Ver Projeto ==> </a></p>
 <p align="center">Site completo com páginas de equipe, protótipo, detalhes técnicos e FAQ.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
@@ -113,7 +113,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p align="center" style="font-size:1.2em;">4️⃣ 🏥🥼 Sistema CRUD Saúde</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/eduardo-scavalcanti/projetofp-crud">🔗 Ver Projeto</a></p>
+<p align="center" style="font-size:1.1em;"><a href="https://github.com/eduardo-scavalcanti/projetofp-crud">🔗Ver Projeto ==> </a></p>
 <p align="center">Gerenciamento de pacientes, atendimentos e informações médicas por meio de operações CRUD.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -123,7 +123,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p align="center" style="font-size:1.2em;">5️⃣ 🏦🌐💳 Nova Bank – Gestão de Contas e Transações</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/NovaBank">🔗 Ver Projeto</a></p>
+<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/NOVA-BANK-">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema bancário web em Python + Flask com gerenciamento de contas, depósitos, saques e consulta de saldo.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
@@ -142,7 +142,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
 <p align="center" style="font-size:1.2em;">⚙️ Projeto - Porto Digital: Capacita+</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Certificado-PortoDigital-CapacitaMais" target="_blank">🔗 Ver Projeto</a></p>
+<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Certificado-PortoDigital-CapacitaMais" target="_blank">🔗Ver Repositório </a></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Management-0f172a?style=flat-square&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-1ABCFE?style=flat-square&logo=figma&logoColor=white"/>
@@ -152,7 +152,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p align="center" style="font-size:1.2em;">🌐 Git & GitHub — Curso em Vídeo</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Git-Github-Curso-em-Video" target="_blank">🔗 Ver Projeto</a></p>
+<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Git-Github-Curso-em-Video" target="_blank">🔗Ver Repositório </a></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -160,7 +160,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p align="center" style="font-size:1.2em;">🐍 Mundos de Python — Curso em Vídeo</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Mundos-Python-CursoemVideo" target="_blank">🔗 Ver Projeto</a></p>
+<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Mundos-Python-CursoemVideo" target="_blank">🔗Ver Repositório </a></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
