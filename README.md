@@ -71,7 +71,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <h2 align="center"> 🗂️💼 Projetos em Destaque</h2>
 <br>
 
-<p align="center" style="font-size:1.2em;">1️⃣ 🚛💰 Frete E-commerce – Sistema de Cálculo de Frete para E-commerce <br> em andamento...❌</p>
+<p align="center" style="font-size:1.2em;">1️⃣ 🚛💰 Frete E-commerce – Sistema de Cálculo de Frete para E-commerce <br><br> Em andamento...❌</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Sistema-de-frete-ecommerces-em-python-com-frontending">🔗Ver Projeto ==> </a></p>
 <p align="center">Aplicação web em Python + Flask para cálculo de frete baseado no peso dos produtos e na região de entrega.</p>
 <p align="center">
