@@ -17,10 +17,10 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img 
     alt="Tema do GitHub" src="https://img.shields.io/badge/Theme-Dark%20Aesthetic-C0C0C0?style=for-the-badge"/>
 <img 
-    alt="Foco em Projetos" src="https://img.shields.io/badge/Projetos-1ABCFE?style=for-the-badge&logo=task&logoColor=white"/>
-<img 
-    alt="Produtividade" src="https://img.shields.io/badge/🧭%20Produtividade-FFFFFF?style=for-the-badge&logoColor=111827"/>
-
+    alt="Foco em Projetos" src="https://img.shields.io/badge/Projetos-1ABCFE?style=for-the-badge&logo=task&logoColor=black"/>
+<a href="#">
+  <img src="https://img.shields.io/badge/🧭%20Produtividade-000000?style=for-the-badge&logoColor=white">
+</a>
 <br>
 
 <div align="center">
@@ -75,10 +75,10 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Sistema-de-frete-ecommerces-em-python-com-frontending">🔗Ver Projeto ==> </a></p>
 <p align="center">Aplicação web em Python + Flask para cálculo de frete baseado no peso dos produtos e na região de entrega.</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/> 
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
@@ -88,8 +88,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Cinema-Python-Flask">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema de reservas de cinema com rotas Flask, templates, interface limpa e experiência de usuário intuitiva.</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -106,7 +106,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Lixeira-Automa-tica-SD">🔗Ver Projeto ==> </a></p>
 <p align="center">Site completo com páginas de equipe, protótipo, detalhes técnicos e FAQ.</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
@@ -116,7 +116,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/eduardo-scavalcanti/projetofp-crud">🔗Ver Projeto ==> </a></p>
 <p align="center">Gerenciamento de pacientes, atendimentos e informações médicas por meio de operações CRUD.</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 </p>
 <p align="center"><strong>Full Backending</strong></p>
@@ -154,7 +154,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.2em;">🌐 Git & GitHub — Curso em Vídeo</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Git-Github-Curso-em-Video" target="_blank">🔗Ver Repositório </a></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 <br>
@@ -162,7 +162,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.2em;">🐍🌍 Mundos Python — Curso em Vídeo (1-4)</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Mundos-Python-CursoemVideo" target="_blank">🔗Ver Repositório </a></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
 </p>
 
 
