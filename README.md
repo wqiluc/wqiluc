@@ -71,7 +71,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <h2 align="center"> 🗂️💼 Projetos em Destaque</h2>
 <br>
 
-<p align="center" style="font-size:1.2em;">1️⃣ 🚛💰 Frete E-commerce – Sistema de Cálculo de Frete para E-commerce</p>
+<p align="center" style="font-size:1.2em;">1️⃣ 🚛💰 Frete E-commerce – Sistema de Cálculo de Frete para E-commerce <br> em andamento...❌</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Sistema-de-frete-ecommerces-em-python-com-frontending">🔗Ver Projeto ==> </a></p>
 <p align="center">Aplicação web em Python + Flask para cálculo de frete baseado no peso dos produtos e na região de entrega.</p>
 <p align="center">
@@ -84,7 +84,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 <br>
 
-<p align="center" style="font-size:1.2em;">2️⃣ 🎬🍿 Cinema – Sistema de Reservas em Flask</p>
+<p align="center" style="font-size:1.2em;">2️⃣ 🎬🍿 Cinema – Sistema de Reservas em Flask <br> Concluido✅ </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Cinema-Python-Flask">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema de reservas de cinema com rotas Flask, templates, interface limpa e experiência de usuário intuitiva.</p>
 <p align="center">
@@ -102,7 +102,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center"><strong>Full Stack (front e backending)</strong></p>
 <br>
 
-<p align="center" style="font-size:1.2em;">3️⃣ 🗑️⚙️ Lixeira Automática – Projeto da disciplina: Sistemas Digitais</p>
+<p align="center" style="font-size:1.2em;">3️⃣ 🗑️⚙️ Lixeira Automática – Projeto da disciplina: Sistemas Digitais <br> Concluido✅ </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Lixeira-Automa-tica-SD">🔗Ver Projeto ==> </a></p>
 <p align="center">Site completo com páginas de equipe, protótipo, detalhes técnicos e FAQ.</p>
 <p align="center">
@@ -112,7 +112,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 <br>
 
-<p align="center" style="font-size:1.2em;">4️⃣ 🏥🥼 Sistema CRUD Saúde</p>
+<p align="center" style="font-size:1.2em;">4️⃣ 🏥🥼 Sistema CRUD Saúde <br> Concluido✅ </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/eduardo-scavalcanti/projetofp-crud">🔗Ver Projeto ==> </a></p>
 <p align="center">Gerenciamento de pacientes, atendimentos e informações médicas por meio de operações CRUD.</p>
 <p align="center">
@@ -122,7 +122,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center"><strong>Full Backending</strong></p>
 <br>
 
-<p align="center" style="font-size:1.2em;">5️⃣ 🏦🌐💳 Nova Bank – Gestão de Contas e Transações</p>
+<p align="center" style="font-size:1.2em;">5️⃣ 🏦🌐💳 Nova Bank – Gestão de Contas e Transações <br> Concluido✅ </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/NOVA-BANK-">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema bancário web em Python + Flask com gerenciamento de contas, depósitos, saques e consulta de saldo.</p>
 <p align="center">
