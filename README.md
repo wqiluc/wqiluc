@@ -141,6 +141,19 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
+<p align="center" style="font-size:1.2em;"> Algoritmos / Lógica de Programação — Curso em Vídeo</p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Algori-tmos---Curso-em-Video" target="_blank">🔗Ver Repositório </a>
+</p>
+<p align="center">
+  💡 <img src="https://img.shields.io/badge/Portugol-FFD700?style=for-the-badge&logoColor=000000" alt="Portugol"/>
+  &nbsp;&nbsp;&nbsp;
+  🤖 <img src="https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-111827?style=for-the-badge&logoColor=white" alt="Lógica de Programação"/>
+</p>
+
+</p>
+
+
 <p align="center" style="font-size:1.2em;">⚙️ Projeto - Porto Digital: Capacita+</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Certificado-PortoDigital-CapacitaMais" target="_blank">🔗Ver Repositório </a></p>
 <p align="center">
