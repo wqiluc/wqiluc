@@ -146,11 +146,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <a href="https://github.com/wqiluc/Algori-tmos---Curso-em-Video" target="_blank">🔗Ver Repositório </a>
 </p>
 <p align="center">
-  💡 <img src="https://img.shields.io/badge/Portugol-FFD700?style=for-the-badge&logoColor=000000" alt="Portugol"/>
-  &nbsp;&nbsp;&nbsp;
-  🤖 <img src="https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-111827?style=for-the-badge&logoColor=white" alt="Lógica de Programação"/>
-</p>
-
+  <img src="https://img.shields.io/badge/💡%20Portugol-FFD700?style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/🤖%20Lógica%20de%20Programação-000000?style=for-the-badge&logoColor=white">
 </p>
 
 
