@@ -165,6 +165,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center">
   <img src="https://img.shields.io/badge/💡%20Portugol-FFD700?style=for-the-badge&logoColor=black">
 <img src="https://img.shields.io/badge/🤖%20Lógica%20de%20Programação-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat-square&logo=markdown&logoColor=black"/>
 </p>
 
 
