@@ -150,10 +150,11 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"/>
+<img src="https://img.shields.io/badge/-%F0%9F%91%BE%20Lógica%20de%20Programação-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/-%F0%9F%92%A1%20Portugol-FFD500?style=flat-square&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat-square&logo=markdown&logoColor=black"/>
-<img src="https://img.shields.io/badge/-%F0%9F%92%A1%20Portugol-FFD500?style=flat-square&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/
 
   <br>
@@ -163,8 +164,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <a href="https://github.com/wqiluc/Algori-tmos---Curso-em-Video" target="_blank">🔗Ver Repositório </a>
 </p>
 <p align="center">
+<img src="https://img.shields.io/badge/-%F0%9F%91%BE%20Lógica%20de%20Programação-000000?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/-%F0%9F%92%A1%20Portugol-FFD500?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/🤖%20Lógica%20de%20Programação-000000?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat-square&logo=markdown&logoColor=black"/>
 </p>
 
