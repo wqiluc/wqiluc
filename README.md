@@ -156,6 +156,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
   </div>
   
+  <br>
+  
   <p align="center"><strong>Full Autommation (backending)</strong></p>
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
