@@ -101,6 +101,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Render-000000?style=flat-square&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Project%20Management-0f172a?style=flat-square&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 <p align="center"><strong>Full Stack (front e backending)</strong></p>
 <br>
@@ -112,6 +114,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 <br>
 
@@ -122,6 +126,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 </p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 <p align="center"><strong>Full Backending</strong></p>
 <br>
 
@@ -138,6 +144,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Render-000000?style=flat-square&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Project%20Management-0f172a?style=flat-square&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 <p align="center"><strong>Full Stack (front e backending)</strong></p>
 
