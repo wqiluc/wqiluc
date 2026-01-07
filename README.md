@@ -100,7 +100,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Render-000000?style=flat-square&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Project%20Management-0f172a?style=flat-square&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=adobecreativecloud&logoColor=white"/> <br>
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
@@ -113,7 +113,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <br>
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
@@ -143,7 +143,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Render-000000?style=flat-square&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Project%20Management-0f172a?style=flat-square&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=adobecreativecloud&logoColor=white"/> <br>
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
