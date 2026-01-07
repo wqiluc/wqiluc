@@ -150,7 +150,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Emails%20automatizados%20com%20Python-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Emails%20automatizados%20com%20Python-FF0000?style=flat-square&logo=gmail&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
@@ -224,7 +224,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Emails%20automatizados%20com%20Python-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Emails%20automatizados%20com%20Python-FF0000?style=flat-square&logo=gmail&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
