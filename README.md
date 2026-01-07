@@ -169,7 +169,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <img src="https://img.shields.io/badge/-%F0%9F%91%BE%20Lógica%20de%20Programação-000000?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/-%F0%9F%92%A1%20Portugol-FFD500?style=flat-square&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat-square&logo=markdown&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 
