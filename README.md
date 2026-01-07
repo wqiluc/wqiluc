@@ -213,7 +213,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 <br>
 
-<p align="center" style="font-size:1.2em;">🐍🌍 Mundos Python — Curso em Vídeo (1-4)</p>
+<p align="center" style="font-size:1.2em;">🐍🌍 Mundos Python — Curso em Vídeo <br> (1-4)</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Mundos-Python-CursoemVideo" target="_blank">🔗Ver Repositório </a></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
