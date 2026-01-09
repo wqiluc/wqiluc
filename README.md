@@ -180,9 +180,10 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
-  <br>
-  
+<br>
+
 <p align="center" style="font-size:1.2em;"> Algoritmos / Lógica de Programação — Curso em Vídeo</p>
 <p align="center" style="font-size:1.1em;">
   <a href="https://github.com/wqiluc/Algori-tmos---Curso-em-Video" target="_blank">🔗Ver Repositório </a>
@@ -195,33 +196,43 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
+<br>
 
 <p align="center" style="font-size:1.2em;">⚙️ Projeto - Porto Digital: Capacita+</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Certificado-PortoDigital-CapacitaMais" target="_blank">🔗Ver Repositório </a></p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Certificado-PortoDigital-CapacitaMais" target="_blank">🔗Ver Repositório </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Management-0f172a?style=flat-square&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-1ABCFE?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
 </p>
+
 <br>
 
 <p align="center" style="font-size:1.2em;">🌐 Git & GitHub — Curso em Vídeo</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Git-Github-Curso-em-Video" target="_blank">🔗Ver Repositório </a></p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Git-Github-Curso-em-Video" target="_blank">🔗Ver Repositório </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
+
 <br>
 
 <p align="center" style="font-size:1.2em;">🐍🌍 Mundos Python — Curso em Vídeo <br> (1-4)</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Mundos-Python-CursoemVideo" target="_blank">🔗Ver Repositório </a></p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Mundos-Python-CursoemVideo" target="_blank">🔗Ver Repositório </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
+
+<br>
 
 <p align="center" style="font-size:1.2em;">🐍🚀 Python Impressionador — Hashtag Treinamentos</p>
 <p align="center" style="font-size:1.1em;">
@@ -233,9 +244,24 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Emails%20automatizados%20com%20Python-FF0000?style=flat-square&logo=gmail&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-Emails%20automatizados%20com%20Python-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+<br>
+
+<p align="center" style="font-size:1.2em;"> 🐬📊 SQL Impressionador — Hashtag Treinamentos</p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/SQL_Impressionador_HashtagTreinamentos" target="_blank">🔗 Ver Repositório</a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 
