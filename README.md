@@ -198,7 +198,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <br>
 
-<p align="center" style="font-size:1.2em;"> Segurança da Informação — Curso em Vídeo</p>
+<p align="center" style="font-size:1.2em;">🔐 Segurança da Informação — Curso em Vídeo</p>
 
 <p align="center" style="font-size:1.1em;">
   <a href="https://github.com/wqiluc/Seguranca-da-Informacao-" target="_blank">🔗Ver Repositório</a>
