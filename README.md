@@ -205,9 +205,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-%F0%9F%94%90%20Segurança%20da%20Informação-FFD500?style=flat-square&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat-square&logo=markdown&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat-square&logo=markdown&logoColor=black"/> <br>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/> 
-<br>
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
