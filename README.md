@@ -167,6 +167,33 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   
   <p align="center"><strong>Full Autommation (backending)</strong></p>
 
+<p align="center" style="font-size:1.2em;">
+7️⃣ 📦🐍 Automação de Cadastro de Produtos – Integração com CSV e Sistema Web <br>
+Concluído ✅
+</p>
+
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Python-Powerup--Automacao--Cadastro-de-Produtos">🔗 Ver Projeto ==> </a>
+</p>
+
+<p align="center">
+Aplicação em Python que automatiza o <strong>cadastro de produtos</strong> em um sistema web,
+lendo dados de listas <strong>CSV</strong> e preenchendo formulários automaticamente via PyAutoGUI. 📦🧾🐍
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automação%20de%20captação%20de%20dados%20em%20listas%20CSV-FFD43B?style=flat-square&logo=python&logoColor=black"/> <br>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+<br>
+
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
 <p align="center" style="font-size:1.2em;"> Algoritmos / Lógica de Programação — Hasgtag Treinamentos</p>
