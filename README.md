@@ -192,6 +192,8 @@ lendo dados de listas <strong>CSV</strong> e preenchendo formulários automatica
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
+  <p align="center"><strong>Full Autommation (backending)</strong></p>
+  
 <br>
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
