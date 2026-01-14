@@ -64,6 +64,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center">
   <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width=35"/>
 </p>
 
 
