@@ -193,7 +193,33 @@ lendo dados de listas <strong>CSV</strong> e preenchendo formulários automatica
 </p>
 
   <p align="center"><strong>Full Autommation (backending)</strong></p>
-  
+
+<p align="center" style="font-size:1.2em;">
+8️⃣ 📊📉 Análise de Cancelamento de Clientes (Churn Analysis) — Python & Data Analytics <br> 
+Concluído ✅
+
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Python-Data_Anaylis">🔗 Ver Projeto ==> </a>
+</p>
+
+<p align="center">
+Projeto de <strong>Análise de Dados</strong> focado na identificação dos <strong>principais fatores de cancelamento de clientes</strong> (churn),
+a partir de uma base com <strong>mais de 800 mil registros</strong>, gerando <strong>insights estratégicos</strong>
+para retenção e redução de prejuízos. 📉🧠
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenPyXL-A569BD?style=for-the-badge&logo=python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/NBFormat-111827?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPyKernel-FF0000?style=for-the-badge&logo=python&logoColor=000000"/> <br>
+ <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/> 
+</p>
+
 <br>
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
