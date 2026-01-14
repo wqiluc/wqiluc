@@ -92,6 +92,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Cinema-Python-Flask">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema de reservas de cinema com rotas Flask, templates, interface limpa e experiência de usuário intuitiva.</p>
 <p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
@@ -112,6 +113,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Lixeira-Automa-tica-SD">🔗Ver Projeto ==> </a></p>
 <p align="center">Site completo com páginas de equipe, protótipo, detalhes técnicos e FAQ.</p>
 <p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <br>
@@ -124,6 +126,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/eduardo-scavalcanti/projetofp-crud">🔗Ver Projeto ==> </a></p>
 <p align="center">Gerenciamento de pacientes, atendimentos e informações médicas por meio de operações CRUD.</p>
 <p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
@@ -137,6 +140,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/NOVA-BANK-">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema bancário web em Python + Flask com gerenciamento de contas, depósitos, saques e consulta de saldo.</p>
 <p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=black"/>
@@ -155,6 +159,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Automacao_E-mails_Python">🔗Ver Projeto ==> </a></p>
 <p align="center">Aplicação em Python que automatiza o envio de e‑mails com relatórios gerenciais, integrando com planilhas Excel e preenchendo o conteúdo de forma automática. 📧🐼🐍</ <br>
   <p align="center">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=flat-square&logo=python&logoColor=white"/>
@@ -183,6 +188,7 @@ lendo dados de listas <strong>CSV</strong> e preenchendo formulários automatica
 </p>
 
 <p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=flat-square&logo=python&logoColor=white"/>
@@ -210,6 +216,8 @@ para retenção e redução de prejuízos. 📉🧠
 </p>
 
 <p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
 <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -230,6 +238,7 @@ para retenção e redução de prejuízos. 📉🧠
   <a href="https://github.com/wqiluc/Algortmos--Hashtag--Treinamentos" target="_blank">🔗Ver Repositório </a>
 </p>
 <p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
 <img src="https://img.shields.io/badge/-%F0%9F%91%BE%20Lógica%20de%20Programação-000000?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/-%F0%9F%92%A1%20Portugol-FFD500?style=flat-square&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat-square&logo=markdown&logoColor=black"/>
@@ -298,6 +307,7 @@ para retenção e redução de prejuízos. 📉🧠
   <a href="https://github.com/wqiluc/Mundos-Python-CursoemVideo" target="_blank">🔗Ver Repositório </a>
 </p>
 <p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
