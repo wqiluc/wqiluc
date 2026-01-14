@@ -310,15 +310,23 @@ para retenção e redução de prejuízos. 📉🧠
   <a href="https://github.com/wqiluc/Python_Impressionador_HashtagTreinamentos" target="_blank">🔗 Ver Repositório</a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Emails%20automatizados%20com%20Python-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black" height="28"/>
+
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/IPyKernel-FF0000?style=for-the-badge&logo=python&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/NBFormat-111827?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=black" height="28"/>
+
+  <img src="https://img.shields.io/badge/-Emails%20automatizados%20com%20Python-FF0000?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Automação%20de%20captação%20de%20dados%20em%20listas%20CSV-FFD43B?style=for-the-badge&logo=python&logoColor=black" height="28"/>
+
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
 </p>
 
 <br>
