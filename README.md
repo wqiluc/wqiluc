@@ -9,18 +9,17 @@
 Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. Desenvolvedor que busca solucionar problemas reais e facilitar a vida com tecnologia.
 </p>
 <br>
-
 <p align="center">
   <a href="https://github.com/wqiluc">
-    <img src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github&color=C0C0C0"/>
+    <img src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github&labelColor=C0C0C0&color=8000FF"/>
   </a>
   <img 
-    alt="Tema do GitHub" src="https://img.shields.io/badge/Theme-Dark%20Aesthetic-C0C0C0?style=for-the-badge"/>
-<img 
-    alt="Foco em Projetos" src="https://img.shields.io/badge/Projetos-1ABCFE?style=for-the-badge&logo=task&logoColor=black"/>
-<a href="#">
-  <img src="https://img.shields.io/badge/🧭%20Produtividade-000000?style=for-the-badge&logoColor=white">
-</a>
+    alt="Tema do GitHub"  src="https://img.shields.io/badge/Theme-Dark%20Aesthetic-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projetos-1ABCFE?style=for-the-badge&logo=task&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🧭%20Produtividade-000000?style=for-the-badge&logoColor=white">
+  </a>
+</p>
 <br>
 
 <div align="center">
@@ -72,7 +71,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <br>
 
-<h2 align="center"> 🗂️💼 Projetos em Destaque</h2>
+<h2 align="center"> 🧰 Projetos em Destaque</h2>
 <br>
 
 <p align="center" style="font-size:1.2em;">1️⃣ 🚛💰 Frete E-commerce – Sistema de Cálculo de Frete para E-commerce <br><br> Em andamento...❌</p>
