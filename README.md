@@ -238,8 +238,8 @@ Concluído ✅
 </p>
 
 <p align="center">
-Projeto de <strong>Inteligência Artificial e Machine Learning</strong> voltado para a <strong>previsão automática de score de crédito</strong> 
-(❌ Ruim, ⚠️ Ok, ✅ Bom), utilizando técnicas de <strong>tratamento de dados, engenharia de variáveis e modelos supervisionados</strong> 
+Projeto de <strong>Inteligência Artificial e Machine Learning</strong> voltado para a <strong>previsão automática de score de crédito <br>
+</strong>(❌ Ruim, ⚠️ Ok, ✅ Bom), utilizando técnicas de <strong>tratamento de dados, engenharia de variáveis e modelos supervisionados</strong> 
 para apoiar decisões financeiras e análise de risco. 🧠📊
 </p>
 
@@ -257,8 +257,6 @@ para apoiar decisões financeiras e análise de risco. 🧠📊
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
-
-<br>
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
