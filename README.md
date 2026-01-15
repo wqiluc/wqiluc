@@ -304,7 +304,7 @@ para apoiar decisões financeiras e análise de risco. 🧠📊
 
 <br>
 
-<p align="center" style="font-size:1.2em;">⚙️ Projeto - Porto Digital: Capacita+</p>
+<p align="center" style="font-size:1.2em;">🥉🏆 Projeto - Porto Digital: Capacita+</p>
 <p align="center" style="font-size:1.1em;">
   <a href="https://github.com/wqiluc/Certificado-PortoDigital-CapacitaMais" target="_blank">🔗Ver Repositório </a>
 </p>
