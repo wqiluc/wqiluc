@@ -228,6 +228,36 @@ para retenção e redução de prejuízos. 📉🧠
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/> 
 </p>
 
+<p align="center" style="font-size:1.2em;">
+9️⃣ 🤖🏦 Modelo de Previsão de Score de Crédito — Python & Machine Learning <br> 
+Concluído ✅
+</p>
+
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Python_AI_and-Machine-Learning">🔗 Ver Projeto ==> </a>
+</p>
+
+<p align="center">
+Projeto de <strong>Inteligência Artificial e Machine Learning</strong> voltado para a <strong>previsão automática de score de crédito</strong> 
+(❌ Ruim, ⚠️ Ok, ✅ Bom), utilizando técnicas de <strong>tratamento de dados, engenharia de variáveis e modelos supervisionados</strong> 
+para apoiar decisões financeiras e análise de risco. 🧠📊
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+<img src="https://img.shields.io/badge/LabelEncoder-FF3333?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Train_Test_Split-111827?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/RandomForest-0B5ED7?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/KNN-0B5ED7?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Accuracy_Score-111827?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
 <br>
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
