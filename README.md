@@ -28,8 +28,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <li style="margin: 8px 0;">🎓 Estudante de Análise e Desenvolvimento de Sistemas <strong>(ADS)</strong> na <strong>Cesar School</strong></li>
     <li style="margin: 8px 0;">💡 Apaixonado por tecnologia, automações e desenvolvimento web</li>
     <li style="margin: 8px 0;">🚀 Sempre criando novos projetos para solucionar problemas reais</li>
-    <li style="margin: 8px 0;">📍 Recife, Pernambuco; Brazil 🇧🇷</li>
-    <li style="margin: 8px 0;">🌐 Aberto a networking</li>
+    <li style="margin: 8px 0;">📍 Recife, Pernambuco; <strong>Brazil</strong>🇧🇷</li>
+    <li style="margin: 8px 0;">🌐 Aberto a <strong>networking</strong></li>
   </ul>
 </div>
 <br>
