@@ -154,6 +154,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 <p align="center"><strong>Full Stack (front e backending)</strong></p>
 
+
 <p align="center" style="font-size:1.2em;">6️⃣ 📧🐍 Automação de E‑mails – Envio de Relatórios Automatizados <br> Concluído✅ </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Automacao_E-mails_Python">🔗Ver Projeto ==> </a></p>
 <p align="center">Aplicação em Python que automatiza o envio de e‑mails com relatórios gerenciais, integrando com planilhas Excel e preenchendo o conteúdo de forma automática. 📧🐼🐍</ <br>
@@ -173,89 +174,51 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <p align="center"><strong>Full Autommation (backending)</strong></p>
 
 <p align="center" style="font-size:1.2em;">
-7️⃣ 📦🐍 Automação de Cadastro de Produtos – Integração com CSV e Sistema Web <br>
+7️⃣ 🚀💻 Semana Jornada Python — Workshop Intensivo em Python pela Hashtag Treinamentos <br>
 Concluído ✅
 </p>
 
 <p align="center" style="font-size:1.1em;">
-  <a href="https://github.com/wqiluc/Python-Powerup--Automacao--Cadastro-de-Produtos">🔗 Ver Projeto ==> </a>
+  <a href="https://github.com/wqiluc/Semana-Jornada-Python">🔗 Ver Catálogo ==> </a>
 </p>
 
 <p align="center">
-Aplicação em Python que automatiza o <strong>cadastro de produtos</strong> em um sistema web,
-lendo dados de listas <strong>CSV</strong> e preenchendo formulários automaticamente via PyAutoGUI. 📦🧾🐍
+Durante a <strong>Semana Jornada Python</strong> da <strong>Hashtag Treinamentos</strong>, foram realizados <strong>workshops práticos e desafios diários</strong> que abordaram diferentes áreas de Python, incluindo:  
+<ul align="center">
+  <li>Automação de processos e integração com planilhas CSV;</li>
+  <li>Análise de dados e geração de insights estratégicos;</li>
+  <li>Criação de modelos de Machine Learning e previsão de resultados;</li>
+  <li>Desenvolvimento de aplicações interativas com Streamlit e integração com OpenAI;</li>
+</ul>
+Foram aplicados os conceitos aprendidos nos <strong>Projetos 1 a 4</strong>, consolidando habilidades em Python e ferramentas complementares. <br>
 </p>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automação%20de%20captação%20de%20dados%20em%20listas%20CSV-FFD43B?style=flat-square&logo=python&logoColor=black"/> <br>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Automação%20de%20captação%20de%20dados%20em%20listas%20CSV-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+   <br>
+   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=black"/>
+   <img src="https://img.shields.io/badge/NBFormat-111827?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/IPyKernel-FF0000?style=for-the-badge&logo=python&logoColor=000000"/>
+   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/> <br>
+   <img src="https://img.shields.io/badge/LabelEncoder-FF3333?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Train_Test_Split-111827?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/RandomForest-0B5ED7?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/KNN-0B5ED7?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Accuracy_Score-111827?style=for-the-badge&logo=python&logoColor=white"/>
+   <br>
+   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+   <img src="https://img.shields.io/badge/🤖 OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Streamlit_SessionState-111827?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Chat_Completions-0B5ED7?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-  <p align="center"><strong>Full Autommation (backending)</strong></p>
-
-<p align="center" style="font-size:1.2em;">
-8️⃣ 📊📉 Análise de Cancelamento de Clientes (Churn Analysis) — Python & Data Analytics <br> 
-Concluído ✅
-
-<p align="center" style="font-size:1.1em;">
-  <a href="https://github.com/wqiluc/Python-Data_Anaylis">🔗 Ver Projeto ==> </a>
-</p>
-
-<p align="center">
-Projeto de <strong>Análise de Dados</strong> focado na identificação dos <strong>principais fatores de cancelamento de clientes</strong> (churn),
-a partir de uma base com <strong>mais de 800 mil registros</strong>, gerando <strong>insights estratégicos</strong>
-para retenção e redução de prejuízos. 📉🧠
-</p>
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenPyXL-A569BD?style=for-the-badge&logo=python&logoColor=000000"/>
-<img src="https://img.shields.io/badge/NBFormat-111827?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/IPyKernel-FF0000?style=for-the-badge&logo=python&logoColor=000000"/> <br>
- <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/> 
-</p>
-
-<p align="center" style="font-size:1.2em;">
-9️⃣ 🤖🏦 Modelo de Previsão de Score de Crédito — Python & Machine Learning <br> 
-Concluído ✅
-</p>
-
-<p align="center" style="font-size:1.1em;">
-  <a href="https://github.com/wqiluc/Python_AI_and-Machine-Learning">🔗 Ver Projeto ==> </a>
-</p>
-
-<p align="center">
-Projeto de <strong>Inteligência Artificial e Machine Learning</strong> voltado para a <strong>previsão automática de score de crédito <br>
-</strong>(❌ Ruim, ⚠️ Ok, ✅ Bom), utilizando técnicas de <strong>tratamento de dados, engenharia de variáveis e modelos supervisionados</strong> 
-para apoiar decisões financeiras e análise de risco. 🧠📊
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
-<img src="https://img.shields.io/badge/LabelEncoder-FF3333?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Train_Test_Split-111827?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/RandomForest-0B5ED7?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/KNN-0B5ED7?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Accuracy_Score-111827?style=for-the-badge&logo=python&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
-</p>
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
@@ -327,6 +290,16 @@ para apoiar decisões financeiras e análise de risco. 🧠📊
 </p>
 
 <br>
+
+<p align="center" style="font-size:1.2em;">🌐 Git & GitHub — Hashtag Treinamentos</p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Git-Github-Hashtagtreinamentos" target="_blank">🔗Ver Repositório </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
 
 <p align="center" style="font-size:1.2em;">🐍🌍 Mundos Python — Curso em Vídeo <br> (1-4)</p>
 <p align="center" style="font-size:1.1em;">
