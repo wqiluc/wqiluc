@@ -174,9 +174,11 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <p align="center"><strong>Full Autommation (backending)</strong></p>
 
 <p align="center" style="font-size:1.2em;">
-  
-7️⃣ 🚀💻 Semana Jornada Python — Workshop Intensivo em Python pela Hashtag Treinamentos <br>
-Concluído ✅
+  <strong>7️⃣ 🚀💻 Semana Jornada Python — Workshop Intensivo em Python pela Hashtag Treinamentos</strong>
+</p>
+
+<p align="center" style="font-size:1.2em;">
+  <strong>Concluído ✅</strong>
 </p>
 
 <p align="center" style="font-size:1.1em;">
@@ -220,10 +222,13 @@ Foram aplicados os conceitos aprendidos nos <strong>Projetos 1 a 4</strong>, con
    <img src="https://img.shields.io/badge/Chat_Completions-0B5ED7?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+
 <p align="center" style="font-size:1.2em;">
-  
-8️⃣ 📊📲 Automação Analítica — WhatsApp com Python e Análise Estratégica de Clientes <br>
-Concluído ✅
+  <strong>8️⃣ 📊📲 Automação Analítica — WhatsApp com Python e Análise Estratégica de Clientes</strong>
+</p>
+
+<p align="center" style="font-size:1.2em;">
+  <strong>Concluído ✅</strong>
 </p>
 
 <p align="center" style="font-size:1.1em;">
