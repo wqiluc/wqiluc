@@ -174,6 +174,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <p align="center"><strong>Full Autommation (backending)</strong></p>
 
 <p align="center" style="font-size:1.2em;">
+  
 7️⃣ 🚀💻 Semana Jornada Python — Workshop Intensivo em Python pela Hashtag Treinamentos <br>
 Concluído ✅
 </p>
@@ -217,6 +218,50 @@ Foram aplicados os conceitos aprendidos nos <strong>Projetos 1 a 4</strong>, con
    <img src="https://img.shields.io/badge/🤖 OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
    <img src="https://img.shields.io/badge/Streamlit_SessionState-111827?style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Chat_Completions-0B5ED7?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center" style="font-size:1.2em;">
+  
+8️⃣ 📊📲 Automação Analítica — WhatsApp com Python e Análise Estratégica de Clientes <br>
+Concluído ✅
+</p>
+
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Automacao-Python-Dados-Whatsapp">🔗 Ver Projeto ==> </a>
+</p>
+
+<p align="center">
+Neste projeto foi desenvolvida uma <strong>automação analítica completa</strong>, focada na <strong>análise estratégica de bases de clientes</strong>,
+tratamento de dados e <strong>envio automatizado de mensagens via WhatsApp</strong>, integrando análise de dados,
+automação operacional e comunicação corporativa inteligente. <br><br>
+
+Foram aplicadas práticas como:
+<ul align="center">
+  <li>Leitura e tratamento de bases CSV e Excel;</li>
+  <li>Padronização e limpeza de dados para análise estratégica;</li>
+  <li>Geração automática de relatórios analíticos;</li>
+  <li>Automação de envio de mensagens no WhatsApp Web;</li>
+  <li>Integração com área de transferência e automações de interface;</li>
+  <li>Organização de projetos Python com foco em produtividade.</li>
+</ul>
+O projeto consolida habilidades em <strong>automação de processos, análise de dados e integração de sistemas</strong>,
+criando uma base escalável para futuras automações inteligentes. 🚀
+</p>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
+   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-PyAutoGUI-FF4500?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Pyperclip-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-OpenPyXL-32CD32?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/os%20%28system%29-111827?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/time%20sleep💤-FFFFFF?style=for-the-badge&logo=python&logoColor=black"/>
+   <img src="https://img.shields.io/badge/ANSI%20Cores🎨-111827?style=for-the-badge&logo=python&logoColor=white"/>
+   <br>
+   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
