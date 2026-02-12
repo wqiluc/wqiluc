@@ -422,6 +422,27 @@ criando uma base escalável para futuras automações inteligentes. 🚀
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
+<br>
+
+<p align="center" style="font-size:1.2em;"> ⚙️🧭 Estudos em C — Repositório de Estudos</p>
+
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Repositorio-de-Estudos-em-C" target="_blank">🔗 Ver Repositório</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=red" height="28"/>
+  <img src="https://img.shields.io/badge/🤖Algoritmos-111827?style=for-the-badge&logo=code&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/🏛️Arquitetura_de_Dados-0B5ED7?style=for-the-badge&logo=code&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/🧭Ponteiros-FF4500?style=for-the-badge&logo=code&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/🔍Manipulação_de_Memória-111827?style=for-the-badge&logo=code&logoColor=white" height="28"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" height="28"/>
+</p>
+
 
 <h2 align="center">🚀 Vamos nos conectar?</h2>
 <br>
