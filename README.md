@@ -283,6 +283,66 @@ criando uma base escalável para futuras automações inteligentes. 🚀
    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<p align="center" style="font-size:1.2em;">
+  <strong>9️⃣ 📊🧠 Análise Exploratória de Dados Organizacionais & Automação Analítica com Python</strong>
+</p>
+
+<p align="center" style="font-size:1.2em;">
+  <strong>Concluído ✅</strong>
+</p>
+
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Python-Data-Analysis-Companies">🔗 Ver Projeto ==> </a>
+</p>
+
+<p align="center">
+Neste projeto foi desenvolvida uma <strong>análise exploratória completa de dados organizacionais</strong>,
+integrando tratamento de dados, geração de visualizações estratégicas e
+<strong>automação de envio de relatórios por e-mail</strong>.<br><br>
+
+A aplicação realiza a limpeza da base, remoção de colunas irrelevantes,
+padronização e tradução para PT-BR 🇧🇷, seguida da construção de
+<strong>insights estratégicos sobre fundação das empresas, distribuição geográfica e porte organizacional</strong>.<br><br>
+
+Além da análise, o projeto implementa <strong>automação operacional com PyAutoGUI e Pyperclip</strong>,
+simulando interações no navegador para envio estruturado de relatórios,
+demonstrando integração entre análise de dados e automação inteligente de processos.
+</p>
+
+<p align="center">
+Foram aplicadas práticas como:
+</p>
+
+<ul align="center">
+  <li>Limpeza, padronização e tradução de bases CSV;</li>
+  <li>Remoção de inconsistências e dados irrelevantes;</li>
+  <li>Exploração de padrões de fundação e quantidade de funcionários;</li>
+  <li>Construção de visualizações estratégicas com Plotly;</li>
+  <li>Geração de relatórios automatizados por e-mail;</li>
+  <li>Organização analítica em Jupyter Notebook reprodutível.</li>
+</ul>
+
+<p align="center">
+O projeto consolida competências em <strong>Análise Exploratória de Dados (EDA), visualização estratégica,
+automação de tarefas repetitivas e integração entre análise e comunicação corporativa</strong>,
+transformando dados brutos em informação acionável para tomada de decisão. 🚀
+</p>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
+   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-PyAutoGUI-FF8C00?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Pyperclip-32CD32?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/os%20%28system%29-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/time%20sleep💤-FFFFFF?style=for-the-badge&logo=python&logoColor=black"/>
+   <img src="https://img.shields.io/badge/ANSI%20Cores🎨-111827?style=for-the-badge&logo=python&logoColor=white"/>
+   <br>
+   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
