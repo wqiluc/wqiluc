@@ -30,6 +30,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <li style="margin: 8px 0;">🚀 Sempre criando novos projetos para solucionar problemas reais</li>
     <li style="margin: 8px 0;">📍 Recife, Pernambuco; <strong>Brazil</strong>🇧🇷</li>
     <li style="margin: 8px 0;">🌐 Aberto a <strong>networking</strong></li>
+<li style="margin: 8px 0;"> <strong>🤖👨🏻‍🏫 Foco em desenvolvimento Backending, Automação, IA, Análise e Tratamrnto de Dados e Machine Learning</strong></li>
   </ul>
 </div>
 <br>
@@ -74,6 +75,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyAutoGUI-orange?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pyperclip-purple?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/📊Openpyxl-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -447,6 +449,7 @@ transformando dados brutos em informação acionável para tomada de decisão. �
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/LabelEncoder-FF3333?style=for-the-badge&logo=python&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Train_Test_Split-111827?style=for-the-badge&logo=python&logoColor=white" height="28"/>
