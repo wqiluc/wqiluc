@@ -27,7 +27,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <ul style="list-style: none; padding: 0; margin: 0; text-align: center;">
     <li style="margin: 8px 0;">🎓 Estudante de Análise e Desenvolvimento de Sistemas <strong>(ADS)</strong> na <strong>Cesar School</strong></li>
     <li style="margin: 8px 0;">💡 Apaixonado por tecnologia, automações e desenvolvimento web</li>
-    <li style="margin: 8px 0;">🚀 Sempre criando novos projetos para solucionar problemas reais</li>
+    <li style="margin: 8px 0;">🚀 Sempre criando e estudando novas ideias para solucionar problemas reais</li>
     <li style="margin: 8px 0;">📍 Recife, Pernambuco; <strong>Brazil</strong>🇧🇷</li>
     <li style="margin: 8px 0;"> 👊🏻 Aberto a <strong>networking</strong></li>
 <li style="margin: 8px 0;"> <strong>🤖👨🏻‍🏫 Foco em desenvolvimento Backending, Automação, IA, Análise e Tratamrnto de Dados e Machine Learning</strong></li>
