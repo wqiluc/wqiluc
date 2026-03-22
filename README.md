@@ -29,8 +29,9 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <li style="margin: 8px 0;">💡 Apaixonado por tecnologia, automações e desenvolvimento web</li>
     <li style="margin: 8px 0;">🚀 Sempre criando novos projetos para solucionar problemas reais</li>
     <li style="margin: 8px 0;">📍 Recife, Pernambuco; <strong>Brazil</strong>🇧🇷</li>
-    <li style="margin: 8px 0;">🌐 Aberto a <strong>networking</strong></li>
+    <li style="margin: 8px 0;"> 👊🏻 Aberto a <strong>networking</strong></li>
 <li style="margin: 8px 0;"> <strong>🤖👨🏻‍🏫 Foco em desenvolvimento Backending, Automação, IA, Análise e Tratamrnto de Dados e Machine Learning</strong></li>
+<li style="margin: 8px 0;"> Monitor de Projetos pelo Porto Digital 🚢🌐</li>
   </ul>
 </div>
 <br>
