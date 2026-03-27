@@ -60,8 +60,6 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <h2 align="center">⛏️💻 Tecnologias e Stacks Principais</h2>
 
-<h2 align="center"> ⛏️💻 Stacks e Tecnologias Utilizadas: </h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br>
 
