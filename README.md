@@ -144,8 +144,37 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center"><strong>Full Backending</strong></p>
 <br>
 
+<p align="center" style="font-size:1.2em;">4️⃣ 📚 MVP: Capacita+ <br> Concluído ✅ </p>
 
-<p align="center" style="font-size:1.2em;">4️⃣ 📧🐍 Automação de E‑mails – Envio de Relatórios Automatizados <br> Concluído✅ </p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/viictorpaes/Capacita-Mais">🔗 Ver MVP ==> </a>
+</p>
+
+<p align="center">Plataforma educacional inclusiva para alunos neurodivergentes (TEA, TDAH, etc.), focada em ensino personalizado e autonomia para romper barreiras de aprendizado.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=black" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=black" alt="Docker" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" alt="Prettier" />
+  <br>
+  <img src="https://img.shields.io/badge/Versionamento-Git-F05032?style=for-the-badge&logo=git&logoColor=orange&labelColor=black" height="22">
+  <img src="https://img.shields.io/badge/Plataforma-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="22"/>
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-6F42C1?style=for-the-badge&logo=github&logoColor=white" height="22"/>
+</p>
+
+<p align="center" style="font-size:1.2em;">5️⃣ 📧🐍 Automação de E‑mails – Envio de Relatórios Automatizados <br> Concluído✅ </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Automacao_E-mails_Python">🔗Ver Projeto ==> </a></p>
 <p align="center">Aplicação em Python que automatiza o envio de e‑mails com relatórios gerenciais, integrando com planilhas Excel e preenchendo o conteúdo de forma automática. 📧🐼🐍</ <br>
   <p align="center">
@@ -164,7 +193,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <p align="center"><strong>Full Autommation (backending)</strong></p>
 
 <p align="center" style="font-size:1.2em;">
-  <strong>5️⃣ 🚀💻 Semana Jornada Python — Workshop Intensivo em Python pela Hashtag Treinamentos</strong>
+  <strong>6️⃣ 🚀💻 Semana Jornada Python — Workshop Intensivo em Python pela Hashtag Treinamentos</strong>
 </p>
 
 <p align="center" style="font-size:1.2em;">
@@ -214,7 +243,7 @@ Foram aplicados os conceitos aprendidos nos <strong>Projetos 1 a 4</strong>, con
 
 
 <p align="center" style="font-size:1.2em;">
-  <strong>6️⃣ 📊📲 Automação Analítica — WhatsApp com Python e Análise Estratégica de Clientes</strong>
+  <strong>7️⃣ 📊📲 Automação Analítica — WhatsApp com Python e Análise Estratégica de Clientes</strong>
 </p>
 
 <p align="center" style="font-size:1.2em;">
@@ -260,7 +289,7 @@ criando uma base escalável para futuras automações inteligentes. 🚀
 </p>
 
 <p align="center" style="font-size:1.2em;">
-  <strong>7️⃣ 📊🧠 Análise Exploratória de Dados Organizacionais & Automação Analítica com Python</strong>
+  <strong>8️⃣ 📊🧠 Análise Exploratória de Dados Organizacionais & Automação Analítica com Python</strong>
 </p>
 
 <p align="center" style="font-size:1.2em;">
