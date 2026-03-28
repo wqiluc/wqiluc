@@ -98,7 +98,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 
-<p align="center" style="font-size:1.2em;">1️⃣ 🎬🍿 Cinema – Sistema de Reservas em Flask <br> Concluido✅ </p>
+<p align="center" style="font-size:1.2em;">1️⃣ 🎬🍿 Cinema – Sistema de Reservas em Flask <br> <strong>Concluido✅</stong> </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Cinema-Python-Flask">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema de reservas de cinema com rotas Flask, templates, interface limpa e experiência de usuário intuitiva.</p>
 <p align="center">
@@ -119,7 +119,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center"><strong>Full Stack (front e backending)</strong></p>
 <br>
 
-<p align="center" style="font-size:1.2em;">2️⃣ 🗑️⚙️ Lixeira Automática – Projeto da disciplina: Sistemas Digitais <br> Concluido✅ </p>
+<p align="center" style="font-size:1.2em;">2️⃣ 🗑️⚙️ Lixeira Automática – Projeto da disciplina: Sistemas Digitais <br> <strong>Concluido✅</strong> </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Lixeira-Automa-tica-SD">🔗Ver Projeto ==> </a></p>
 <p align="center">Site completo com páginas de equipe, protótipo, detalhes técnicos e FAQ.</p>
 <p align="center">
@@ -132,7 +132,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 <br>
 
-<p align="center" style="font-size:1.2em;">3️⃣ 🏥🥼 Sistema CRUD Saúde <br> Concluido✅ </p>
+<p align="center" style="font-size:1.2em;">3️⃣ 🏥🥼 Sistema CRUD Saúde <br> <strong>Concluido✅</strong> </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/eduardo-scavalcanti/projetofp-crud">🔗Ver Projeto ==> </a></p>
 <p align="center">Gerenciamento de pacientes, atendimentos e informações médicas por meio de operações CRUD.</p>
 <p align="center">
@@ -146,7 +146,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center"><strong>Full Backending</strong></p>
 <br>
 
-<p align="center" style="font-size:1.2em;">4️⃣ 📚 MVP: Capacita+ <br> Concluído ✅ </p>
+<p align="center" style="font-size:1.2em;">4️⃣ 📚 MVP: Capacita+ <br> <strong>Concluído</strong> ✅ </p>
 
 <p align="center" style="font-size:1.1em;">
   <a href="https://github.com/viictorpaes/Capacita-Mais">🔗 Ver MVP ==> </a>
@@ -176,7 +176,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/GitHub%20Desktop-6F42C1?style=for-the-badge&logo=github&logoColor=white" height="22"/>
 </p>
 
-<p align="center" style="font-size:1.2em;">5️⃣ 📧🐍 Automação de E‑mails – Envio de Relatórios Automatizados <br> Concluído✅ </p>
+<p align="center" style="font-size:1.2em;">5️⃣ 📧🐍 Automação de E‑mails – Envio de Relatórios Automatizados <br> <strong>Concluído✅</strong> </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Automacao_E-mails_Python">🔗Ver Projeto ==> </a></p>
 <p align="center">Aplicação em Python que automatiza o envio de e‑mails com relatórios gerenciais, integrando com planilhas Excel e preenchendo o conteúdo de forma automática. 📧🐼🐍</ <br>
   <p align="center">
