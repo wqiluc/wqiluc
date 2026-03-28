@@ -56,7 +56,6 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=ffffff" width="40" alt="Discord">
   </a>
 </p>
-<br>
 
 <h2 align="center">⛏️💻 Tecnologias e Stacks Principais</h2>
 
