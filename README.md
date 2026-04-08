@@ -41,13 +41,16 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <p align="center">
   <a href="https://github.com/wqiluc" target="_blank">
-   <img src="https://skillicons.dev/icons?i=github" height="45"/>
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  <a href="https://gitlab.com/wqiluc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab" height="45"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-paguetti-pereira" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="mailto:lpp2@cesar.school">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   <a href="https://www.instagram.com/lucpaguetti" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
@@ -62,6 +65,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
