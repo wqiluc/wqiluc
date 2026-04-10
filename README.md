@@ -11,15 +11,11 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 <p align="center">
   <a href="https://github.com/wqiluc">
-    <img src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github&labelColor=C0C0C0&color=8000FF"/>
+    <img src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github&labelColor=181717&color=8A2BE2"/>
   </a>
-  <img 
-    alt="Tema do GitHub"  src="https://img.shields.io/badge/Theme-Dark%20Aesthetic-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projetos-1ABCFE?style=for-the-badge&logo=task&logoColor=white"/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🧭%20Produtividade-000000?style=for-the-badge&logoColor=white">
-  </a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-IA%2C%20Machine%20Learning%20%26%20Automation-FF007F?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
 <br>
 
 <div align="center">
