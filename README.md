@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="./video/header.mp4" width="500" autoplay loop muted playsinline></video>
+<img src="./img/header.gif" alt="header" width="420">
 </p>
 
 <h1 align="center">👋 Olá, é um prazer em te conhecer. Me chamo <strong>Lucas Paguetti</strong></h1>
