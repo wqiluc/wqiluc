@@ -11,7 +11,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 <p align="center">
   <a href="https://github.com/wqiluc">
-    <img src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github&labelColor=181717&color=8A2BE2"/>
+    <img src="https://img.shields.io/github/followers/wqiluc?label=Seguir&style=for-the-badge&logo=github&labelColor=181717&color=white"/>
   </a>
   <img alt="Focus" src="https://img.shields.io/badge/Focus-IA%2C%20Machine%20Learning%20%26%20Automation-FF007F?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
@@ -66,6 +66,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/-C-111827?style=flat-square&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/GCC-111827?style=flat-square&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/-NPM-111827?style=flat-square&logo=npm&logoColor=CB3837"/>
   <img src="https://img.shields.io/badge/-Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white"/>
