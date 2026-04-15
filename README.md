@@ -198,7 +198,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <img src="https://img.shields.io/badge/-OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
    <img src="https://img.shields.io/badge/Automação%20CSV-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
    <br>
-   <img src="https://img.shields.io/badge/Plotly-111827?style=flat-square&logo=plotly&logoColor=3F4F75"/>
+   <img src="https://img.shields.io/badge/Plotly-111827?style=flat-square&logo=plotly&logoColor=white"/>
    <img src="https://img.shields.io/badge/NBFormat-111827?style=flat-square&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/IPyKernel-111827?style=flat-square&logo=python&logoColor=FF0000"/>
    <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E"/> <br>
@@ -211,7 +211,9 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
    <img src="https://img.shields.io/badge/🤖%20OpenAI_API-111827?style=flat-square&logo=openai&logoColor=412991"/>
    <img src="https://img.shields.io/badge/Streamlit_SessionState-111827?style=flat-square&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Chat_Completions-111827?style=flat-square&logo=python&logoColor=0B5ED7"/>
+   <img src="https://img.shields.io/badge/Chat_Completions-111827?style=flat-square&logo=python&logoColor=0B5ED7"/> <br>
+  <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+   <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 <p align="center" style="font-size:1.2em;">
