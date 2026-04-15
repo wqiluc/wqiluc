@@ -75,7 +75,6 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=2496ed"/>
   <img src="https://img.shields.io/badge/-Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/-Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37"/>
   <img src="https://img.shields.io/badge/-Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D"/>
   <img src="https://img.shields.io/badge/-Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
@@ -171,7 +170,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
   <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
   <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=4B0082"/>
   <img src="https://img.shields.io/badge/-OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
@@ -193,7 +192,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
    <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
    <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
-   <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=150458"/>
+   <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
    <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=4B0082"/>
    <img src="https://img.shields.io/badge/-OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
@@ -225,7 +224,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
    <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
    <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
-   <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=150458"/>
+   <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
    <img src="https://img.shields.io/badge/-WhatsApp-111827?style=flat-square&logo=whatsapp&logoColor=25D366"/>
    <img src="https://img.shields.io/badge/-OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
@@ -247,7 +246,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
    <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
    <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
-   <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=150458"/>
+   <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Plotly-111827?style=flat-square&logo=plotly&logoColor=white"/>
    <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF8C00"/>
    <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=32CD32"/>
