@@ -300,6 +300,29 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <div align="center">
+  <p style="font-size:1.2em;">🐍📊 Python Impressionador — Hashtag Treinamentos</p>
+  <p style="font-size:1.1em;"><a href="https://github.com/wqiluc/Python_Impressionador_HashtagTreinamentos">🔗 Ver Repositório</a></p>
+  <p>
+    <img src="https://img.shields.io/badge/-Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
+    <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+    <img src="https://img.shields.io/badge/-Regex-111827?style=flat-square&logo=python&logoColor=FFD700"/> <br>
+    <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NumPy-111827?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+    <img src="https://img.shields.io/badge/-Matplotlib-111827?style=flat-square&logo=python&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/-Plotly-111827?style=flat-square&logo=plotly&logoColor=white"/> <br>
+    <img src="https://img.shields.io/badge/-Scikit--Learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+    <img src="https://img.shields.io/badge/-Random%20Forest-111827?style=flat-square&logo=scikitlearn&logoColor=448833"/>
+    <img src="https://img.shields.io/badge/-Accuracy%20Score-111827?style=flat-square&logo=scikitlearn&logoColor=9370DB"/> <br>
+    <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
+    <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=E066FF"/>
+    <img src="https://img.shields.io/badge/-OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
+    <img src="https://img.shields.io/badge/-Smtplib-111827?style=flat-square&logo=gmail&logoColor=EA4335"/> <br>
+    <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+    <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=ffffff"/>
+  </p>
+</div>
+
+<div align="center">
 <p style="font-size:1.2em;"> 🐬📊 SQL Impressionador — Hashtag Treinamentos</p>
 <p style="font-size:1.1em;"><a href="https://github.com/wqiluc/SQL_Impressionador_HashtagTreinamentos">🔗 Ver Repositório</a></p>
 <p>
