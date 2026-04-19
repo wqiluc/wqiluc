@@ -47,6 +47,9 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <a href="https://www.instagram.com/lucpaguetti" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
+  <a href="https://wa.me/5581988862967" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" alt="WhatsApp"/>
+  </a>
   <a href="https://discord.com/users/lucaspaguettipereira" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=ffffff" width="40" alt="Discord">
   </a>
