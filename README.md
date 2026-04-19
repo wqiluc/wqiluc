@@ -376,3 +376,11 @@ Se quiser bater um papo sobre projetos, estudos, tech ou qualquer outra coisa, f
   <img src="./img/footer.jpg" width="300">
 </p>
 <br>
+
+<h2 align="center">📊 Métricas do Perfil: <br>
+<img src="https://img.shields.io/badge/-Métricas-111827?style=flat-square&logo=chartdotjs&logoColor=whitesmoke"/></h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wqiluc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7f00ff" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wqiluc&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff" height="180em"/>
+</p>
