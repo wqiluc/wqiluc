@@ -350,15 +350,18 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.2em;"> ⚙️🧭 Estudos em C — Repositório de Estudos</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Repositorio-de-Estudos-em-C">🔗 Ver Repositório</a></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
-  <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/GCC-111827?style=flat-square&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖Algoritmos-111827?style=flat-square&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧭Pointers-111827?style=flat-square&logo=code&logoColor=FF4500" />
+    <img src="https://img.shields.io/badge/-C-111827?style=flat-square&logo=c&logoColor=A8B9CC"/>
+    <img src="https://img.shields.io/badge/-C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+    <img src="https://img.shields.io/badge/-C%23-111827?style=flat-square&logo=csharp&logoColor=239120"/>
+    <img src="https://img.shields.io/badge/-CMake-111827?style=flat-square&logo=cmake&logoColor=064F8C"/>
+    <img src="https://img.shields.io/badge/GCC-111827?style=flat-square&logo=gnu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-G++-111827?style=flat-square&logo=gnu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🤖Algoritmos-111827?style=flat-square&logo=code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white" />
+    <img src="https://img.shields.io/badge/🧭Pointers-111827?style=flat-square&logo=code&logoColor=FF4500" />
   <br>
-  <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+    <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 <h2 align="center">🚀 Vamos nos conectar?</h2>
