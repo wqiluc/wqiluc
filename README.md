@@ -79,7 +79,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D"/>
   <img src="https://img.shields.io/badge/-Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
-  <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=4B0082"/>
+  <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=pink"/>
   <img src="https://img.shields.io/badge/-OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
   <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-111827?style=flat-square&logo=numpy&logoColor=white"/>
@@ -95,7 +95,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Cinema-Python-Flask">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema de reservas de cinema com rotas Flask, templates, interface limpa e experiência de usuário intuitiva.</p>
 <p align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
   <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/> 
   <img src="https://img.shields.io/badge/-CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/> 
@@ -103,11 +103,9 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Flask-111827?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jinja2-111827?style=flat-square&logo=jinja&logoColor=B41717"/>
   <img src="https://img.shields.io/badge/-JSON-111827?style=flat-square&logo=json&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Render-111827?style=flat-square&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Project%20Management-111827?style=flat-square&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prototyping-111827?style=flat-square&logo=adobecreativecloud&logoColor=white"/> <br>
-    <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </p>
 <p align="center"><strong>Full Stack (front e backending)</strong></p>
 <br>
@@ -123,6 +121,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </p>
+<p align="center"><b> Site Dedicatório</b> </p>
 <br>
 
 <p align="center" style="font-size:1.2em;">3️⃣ 🏥🥼 Sistema CRUD Saúde <br> <strong>Concluido✅</strong> </p>
@@ -135,7 +134,6 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </p>
-
 <p align="center"><strong>Full Backending</strong></p>
 <br>
 
@@ -163,6 +161,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Desktop-111827?style=flat-square&logo=github&logoColor=6F42C1"/>
 </p>
+<p align="center"> <b>MVP</b> </p>
 <br>
 
 <p align="center" style="font-size:1.2em;">5️⃣ 📧🐍 Automação de E‑mails – Envio de Relatórios Automatizados <br> <strong>Concluído✅</strong> </p>
@@ -173,15 +172,14 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
-  <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=4B0082"/>
+  <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=pink"/>
   <img src="https://img.shields.io/badge/-OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
   <img src="https://img.shields.io/badge/-Emails-111827?style=flat-square&logo=gmail&logoColor=D14836"/> <br>
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </p>
-  <br>
-  
   <p align="center"><strong>Full Autommation (backending)</strong></p>
+  <br>
 
 <p align="center" style="font-size:1.2em;">
   <strong>6️⃣ 🚀💻 Semana Jornada Python — Workshop Intensivo</strong>
@@ -195,7 +193,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
    <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
-   <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=4B0082"/>
+  <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=pink"/>
    <img src="https://img.shields.io/badge/-OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
    <img src="https://img.shields.io/badge/Automação%20CSV-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
    <br>
@@ -216,6 +214,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
    <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </p>
+<p align="center"> <b>Workshop de Aprendizado</b> </p>
+
 
 <p align="center" style="font-size:1.2em;">
   <strong>7️⃣ 📊📲 Automação Analítica — WhatsApp com Python</strong>
@@ -229,6 +229,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
    <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
+  <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=pink"/>
    <img src="https://img.shields.io/badge/-WhatsApp-111827?style=flat-square&logo=whatsapp&logoColor=25D366"/>
    <img src="https://img.shields.io/badge/-OpenPyXL-111827?style=flat-square&logo=python&logoColor=32CD32"/>
    <img src="https://img.shields.io/badge/os%20(system)-111827?style=flat-square&logo=python&logoColor=white"/>
@@ -237,6 +238,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <br>
    <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
    <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <p align="center"> <b>Automation</b> </p>
 </p>
 
 <p align="center" style="font-size:1.2em;">
@@ -252,13 +254,14 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Plotly-111827?style=flat-square&logo=plotly&logoColor=white"/>
    <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF8C00"/>
-   <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=32CD32"/>
+  <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=pink"/>
    <img src="https://img.shields.io/badge/os%20(system)-111827?style=flat-square&logo=python&logoColor=6A0DAD"/>
    <img src="https://img.shields.io/badge/time%20sleep💤-111827?style=flat-square&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/ANSI%20Cores🎨-111827?style=flat-square&logo=python&logoColor=white"/>
    <br>
    <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
    <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <p align="center"> Automation </p>
 </p>
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
