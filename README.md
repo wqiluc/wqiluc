@@ -368,8 +368,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <br>
 
 <p align="center">
-Se quiser trocar ideias sobre projetos, estudos, dúvidas ou tecnologia,  
-fique à vontade para entrar em contato 👋
+Se quiser bater um papo sobre projetos, estudos, tech ou qualquer outra coisa, fica super à vontade para entrar em contato! 👋
 </p>
 
 
