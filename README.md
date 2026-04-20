@@ -2,7 +2,8 @@
 <img src="./img/header.gif" alt="header" width="420">
 </p>
 
-<h1 align="center">👋 Olá, é um prazer em te conhecer. Me chamo <strong>Lucas Paguetti</strong></h1>
+<h1 align="center">👋 Olá, é um prazer em te conhecer. <br> 
+Me chamo <strong>Lucas Paguetti</strong></h1>
 <br>
 
 <p align="center">
@@ -24,8 +25,8 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <li style="margin: 8px 0;">🚀 Sempre criando e estudando novas ideias para solucionar problemas reais</li>
     <li style="margin: 8px 0;">📍 Recife, Pernambuco; <strong>Brazil</strong>🇧🇷</li>
     <li style="margin: 8px 0;"> 👊🏻 Aberto a <strong>networking</strong></li>
-<li style="margin: 8px 0;"> <strong>🤖👨🏻‍🏫 Foco em desenvolvimento Backending, Automação, IA, Análise e Tratamrnto de Dados e Machine Learning</strong></li>
-<li style="margin: 8px 0;"> Monitor de Projetos pela <strong> Cesar School + Porto Digital</strong><br>🚢🌐</li>
+<li style="margin: 8px 0;"> <strong>🤖 Foco em desenvolvimento Backending, Automação, IA, Análise e Tratamrnto de Dados e Machine Learning</strong></li>
+<li style="margin: 8px 0;"> 🚢🌐 Monitor de Projetos pela <strong> Cesar School + Porto Digital</strong><br></li>
   </ul>
 </div>
 
@@ -261,6 +262,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
    <img src="https://img.shields.io/badge/os%20(system)-111827?style=flat-square&logo=python&logoColor=6A0DAD"/>
    <img src="https://img.shields.io/badge/time%20sleep💤-111827?style=flat-square&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/ANSI%20Cores🎨-111827?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Emails-111827?style=flat-square&logo=gmail&logoColor=D14836"/> 
    <br>
    <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
    <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
@@ -353,6 +355,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.2em;"> ⚙️🧭 Estudos em C — Repositório de Estudos</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Repositorio-de-Estudos-em-C">🔗 Ver Repositório</a></p>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
     <img src="https://img.shields.io/badge/-C-111827?style=flat-square&logo=c&logoColor=A8B9CC"/>
     <img src="https://img.shields.io/badge/-C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C"/>
     <img src="https://img.shields.io/badge/-C%23-111827?style=flat-square&logo=csharp&logoColor=239120"/>
