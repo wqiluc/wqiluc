@@ -272,11 +272,11 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p align="center" style="font-size:1.2em;"> Algoritmos / Lógica de Programação — Hasgtag Treinamentos</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Algortmos--Hashtag--Treinamentos">🔗Ver Repositório </a></p>
 <p align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
 <img src="https://img.shields.io/badge/-%F0%9F%91%BE%20Lógica-111827?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/-%F0%9F%92%A1%20Portugol-111827?style=flat-square&logoColor=FFD500"/>
-<img src="https://img.shields.io/badge/-Markdown-111827?style=flat-square&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/-Markdown-111827?style=flat-square&logo=markdown&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </p>
@@ -340,7 +340,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
   <img src="https://img.shields.io/badge/-SQL-111827?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQLite-111827?style=flat-square&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/> <br>
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
