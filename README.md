@@ -4,7 +4,6 @@
 
 <h1 align="center">👋 Olá, é um prazer em te conhecer. <br> 
 Me chamo <strong>Lucas Paguetti</strong></h1>
-<br>
 
 <p align="center">
 Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. Desenvolvedor que busca solucionar problemas reais e facilitar a vida com tecnologia.
@@ -57,7 +56,6 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 
 <h2 align="center">⛏️💻 Tecnologias e Stacks Principais</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-VSCode-111827?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
@@ -91,10 +89,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img src="https://img.shields.io/badge/-Scikit--Learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
 </p>
 
-  <br>
-
 <h2 align="center"> 🧰 Projetos em Destaque</h2>
-
 <p align="center" style="font-size:1.2em;">1️⃣ 🎬🍿 Cinema – Sistema de Reservas em Flask <br> <strong>Concluido✅</strong> </p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Cinema-Python-Flask">🔗Ver Projeto ==> </a></p>
 <p align="center">Sistema de reservas de cinema com rotas Flask, templates, interface limpa e experiência de usuário intuitiva.</p>
@@ -397,17 +392,14 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 
 <h2 align="center">🚀 Vamos nos conectar?</h2>
-<br>
-
 <p align="center">
 Se quiser bater um papo sobre projetos, estudos, tech ou qualquer outra coisa, fica super à vontade para entrar em contato! 👋
 </p>
 
-
 <p align="center">
   <img src="./img/footer.jpg" width="300">
 </p>
-<br>
+
 
 <h2 align="center">📊 Métricas do Perfil: <br>
 <img src="https://img.shields.io/badge/-Métricas-111827?style=flat-square&logo=chartdotjs&logoColor=whitesmoke"/></h2>
