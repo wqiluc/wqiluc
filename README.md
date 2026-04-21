@@ -418,7 +418,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <h2 align="center">🚀 Vamos nos conectar?</h2>
 <p align="center">
-Se quiser bater um papo sobre projetos, estudos, tech ou qualquer outra coisa, fica super à vontade para entrar em contato! 👋
+<i>Se quiser bater um papo sobre projetos, estudos, tech ou qualquer outra coisa, fica super à vontade pra entrar em contato comigo! </i>👋
 </p>
 
 <p align="center">
