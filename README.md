@@ -377,22 +377,22 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 <p style="font-size:1.2em;"> 🏆🚀 Ciclo Rise-up Cesar 2026.1</p>
 <p style="font-size:1.1em;"><a href="https://github.com/wqiluc/Ciclo-RiseUp-Cesar">🔗 Ver Repositório</a></p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
-  <img src="https://img.shields.io/badge/HTML5-D2691E?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-CD853F?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-A0522D?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-8B4513?style=flat-square&logo=typescript&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Node.js-8B4513?style=flat-square&logo=node.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Node_Modules-8B4513?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Babel-CD853F?style=flat-square&logo=babel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Compiled-D2691E?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-3D1C02?style=flat-square&logo=json&logoColor=DEB887"/> <br>
-  <img src="https://img.shields.io/badge/npm-8B4513?style=flat-square&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm--lockfile-A0522D?style=flat-square&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webpack-DEB887?style=flat-square&logo=webpack&logoColor=3D1C02"/> <br>
-  <img src="https://img.shields.io/badge/Git-3D1C02?style=flat-square&logo=git&logoColor=DEB887"/>
-  <img src="https://img.shields.io/badge/GitHub-3D1C02?style=flat-square&logo=github&logoColor=DEB887"/>
-  <img src="https://img.shields.io/badge/GitHub_Desktop-8B4513?style=flat-square&logo=github&logoColor=white"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
+  <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-CSS3-111827?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=blue"/> <br>
+  <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=node.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/-Node_Modules-111827?style=flat-square&logo=node.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/-Babel-111827?style=flat-square&logo=babel&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-JS_Compiled-111827?style=flat-square&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-JSON-111827?style=flat-square&logo=json&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-npm-111827?style=flat-square&logo=npm&logoColor=red"/>
+  <img src="https://img.shields.io/badge/-npm_lockfile-111827?style=flat-square&logo=npm&logoColor=red"/>
+  <img src="https://img.shields.io/badge/-Webpack-111827?style=flat-square&logo=webpack&logoColor=cyan"/> <br>
+  <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub_Desktop-111827?style=flat-square&logo=github&logoColor=purple"/>
 </p>
 </div>
 
