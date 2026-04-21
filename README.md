@@ -373,6 +373,31 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 <br>
 
+<div align="center">
+<p style="font-size:1.2em;"> 🏆🚀 Ciclo Rise-up Cesar 2026.1</p>
+<p style="font-size:1.1em;"><a href="https://github.com/wqiluc/Ciclo-RiseUp-Cesar">🔗 Ver Repositório</a></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
+  <img src="https://img.shields.io/badge/HTML5-D2691E?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-CD853F?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-A0522D?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-8B4513?style=flat-square&logo=typescript&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Node.js-8B4513?style=flat-square&logo=node.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Node_Modules-8B4513?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Babel-CD853F?style=flat-square&logo=babel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Compiled-D2691E?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-3D1C02?style=flat-square&logo=json&logoColor=DEB887"/> <br>
+  <img src="https://img.shields.io/badge/npm-8B4513?style=flat-square&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm--lockfile-A0522D?style=flat-square&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-DEB887?style=flat-square&logo=webpack&logoColor=3D1C02"/> <br>
+  <img src="https://img.shields.io/badge/Git-3D1C02?style=flat-square&logo=git&logoColor=DEB887"/>
+  <img src="https://img.shields.io/badge/GitHub-3D1C02?style=flat-square&logo=github&logoColor=DEB887"/>
+  <img src="https://img.shields.io/badge/GitHub_Desktop-8B4513?style=flat-square&logo=github&logoColor=white"/>
+</p>
+</div>
+
+<br>
+
 <p align="center" style="font-size:1.2em;"> ⚙️🧭 Estudos em C — Repositório de Estudos</p>
 <p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Repositorio-de-Estudos-em-C">🔗 Ver Repositório</a></p>
 <p align="center">
