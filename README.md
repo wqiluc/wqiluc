@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Olá, é um prazer em te conhecer. <br> 
-Me chamo <strong>Lucas Paguetti</strong></h1>
+Me chamo <br><strong>Lucas Paguetti</strong></h1>
 
 <p align="center">
 Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. Desenvolvedor que busca solucionar problemas reais e facilitar a vida com tecnologia.
