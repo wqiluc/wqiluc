@@ -345,7 +345,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=green"/> <br>
     <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=2496ed"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D"/>
+    <img src="https://img.shields.io/badge/-Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D"/> <br>
     <img src="https://img.shields.io/badge/ESLint-111827?style=flat-square&logo=eslint&logoColor=4B32C3" />
     <img src="https://img.shields.io/badge/Prettier-111827?style=flat-square&logo=prettier&logoColor=F7B93E"/> 
     <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/> <br>
