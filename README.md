@@ -426,6 +426,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 </p>
 
 
+
 <h2 align="center">📊 Métricas do Perfil: <br>
 <img src="https://img.shields.io/badge/-Métricas-111827?style=flat-square&logo=chartdotjs&logoColor=whitesmoke"/></h2>
 
