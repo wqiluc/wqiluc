@@ -340,7 +340,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
     <img src="https://img.shields.io/badge/-NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E"/>
-    <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+    <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/> <br>
     <img src="https://img.shields.io/badge/-Node%20Modules-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
     <img src="https://img.shields.io/badge/-NPM-111827?style=flat-square&logo=npm&logoColor=CB3837"/>
     <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=green"/> <br>
@@ -349,7 +349,11 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <img src="https://img.shields.io/badge/-Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D"/> <br>
     <img src="https://img.shields.io/badge/ESLint-111827?style=flat-square&logo=eslint&logoColor=4B32C3" />
     <img src="https://img.shields.io/badge/Prettier-111827?style=flat-square&logo=prettier&logoColor=F7B93E"/> 
-    <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/> <br>
+    <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/>
+<br>
+    <img src="https://img.shields.io/badge/bcrypt-111827?style=flat-square&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Password_Hash-111827?style=flat-square&logo=letsencrypt&logoColor=purple"/>    
+    <br>
     <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
     <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GitHub%20Desktop-111827?style=flat-square&logo=github&logoColor=6F42C1"/>
