@@ -340,7 +340,7 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
     <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
     <img src="https://img.shields.io/badge/-NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E"/>
-    <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/> <br>
+    <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/> 
     <img src="https://img.shields.io/badge/-Node%20Modules-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
     <img src="https://img.shields.io/badge/-NPM-111827?style=flat-square&logo=npm&logoColor=CB3837"/>
     <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=green"/> <br>
