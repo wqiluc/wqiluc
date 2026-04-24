@@ -16,18 +16,23 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img alt="Focus" src="https://img.shields.io/badge/Focus-IA%2C%20Machine%20Learning%20%26%20Automation-black?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-<div align="center">
-  <h2>🧙‍♂️ Sobre Mim</h2>
-  <ul style="list-style: none; padding: 0; margin: 0; text-align: center;">
-    <li style="margin: 8px 0;">🎓 Estudante de Análise e Desenvolvimento de Sistemas <strong>(ADS)</strong> na <strong>Cesar School</strong></li>
-    <li style="margin: 8px 0;">💡 Apaixonado por tecnologia, automações e desenvolvimento web</li>
-    <li style="margin: 8px 0;">🚀 Sempre criando e estudando novas ideias para solucionar problemas reais</li>
-    <li style="margin: 8px 0;">📍 Recife, Pernambuco; <strong>Brazil</strong>🇧🇷</li>
-    <li style="margin: 8px 0;"> 👊🏻 Aberto a <strong>networking</strong></li>
-<li style="margin: 8px 0;"> <strong>🤖 Foco em desenvolvimento Backending, Automação, IA, Análise e Tratamrnto de Dados e Machine Learning</strong></li>
-<li style="margin: 8px 0;"> 🚢🌐 Monitor de Projetos pela <br><strong> Cesar School + Porto Digital</strong><br></li>
-  </ul>
-</div>
+
+<h2 align="left"> <b>Experiências Acadêmicas: </b></h2>
+
+[<img align="left" height="64px" width="64px" alt="Cesar School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.cesar.school/)
+
+**Análise e Desenvolvimento de Sistemas (Graduando)** \
+[**CESAR School**](https://www.cesar.school/) • Tecnólogo \
+`• Arquitetura de Software`, `• Estrutura de Dados`, `• Banco de Dados (SQL/NoSQL)` `• APIs RESTful`, • `Clean Code` e `• Testes Automatizados (TDD)`. \
+<br/> 
+
+[<img align="left" height="48px" width="48px" alt="Porto Digital" src="https://tse4.mm.bing.net/th/id/OIP.JZY8l4WhTa7Gy9G0E6IXTAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.portodigital.org/)
+[<img align="left" height="48px" width="48px" alt="Cesar School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.cesar.school/)
+
+**Monitor de Projetos** \
+Monitor de Projetos pela <strong> Cesar School + Porto Digital</strong> (`2026.1`)` `<br>`
+`Mentoria`, `Gestão de Projetos`, `Suporte Técnico`, `Liderança`. \
+<br/>
 
 <h2 align="center">☎️ Contato</h2>
 
