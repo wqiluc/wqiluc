@@ -29,9 +29,9 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 [<img align="left" height="48px" width="48px" alt="Porto Digital" src="https://tse4.mm.bing.net/th/id/OIP.JZY8l4WhTa7Gy9G0E6IXTAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.portodigital.org/)
 [<img align="left" height="48px" width="48px" alt="Cesar School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.cesar.school/)
 
-**Monitor de Projetos** \
-Monitor de Projetos pela <strong> Cesar School + Porto Digital</strong> (`2026.1`)` `<br>`
-`Mentoria`, `Gestão de Projetos`, `Suporte Técnico`, `Liderança`. \
+**Monitor de Projetos** • *2026.1* \
+Monitor de Projetos pela **Cesar School + Porto Digital** \
+`Mentoria` • `Gestão de Projetos` • `Suporte Técnico` • `Liderança`
 <br/>
 
 <h2 align="center">☎️ Contato</h2>
