@@ -365,7 +365,6 @@ Monitor de Projetos pela **Cesar School + Porto Digital** \
   </p>
 </div>
 
-<p align="center"><b>Em Andamento . . . 🏗️</b></p>
 
 <div align="center">
 <p style="font-size:1.2em;"> 🐬📊 SQL Impressionador — Hashtag Treinamentos</p>
