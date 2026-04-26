@@ -23,14 +23,21 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 **Análise e Desenvolvimento de Sistemas (Graduando)** \
 [**CESAR School**](https://www.cesar.school/) • Tecnólogo \
-`• Arquitetura de Software`, `• Estrutura de Dados`, `• Banco de Dados (SQL/NoSQL)` `• APIs RESTful`, • `Clean Code` e `• Testes Automatizados (TDD)`. \
+• `Arquitetura de Software`, • `Estrutura de Dados`, • `Fundamentos e Desenvolvimento de Software`, • `Gestão Ágil`, `• Clean Code`, `• Testes Automatizados (TDD)`, • `Desenvolvimento Web`, • `Infraestrutura`. \
+<br/> 
+
+[<img align="left" height="64px" width="64px" alt="Warpnet" src="https://tse4.mm.bing.net/th/id/OIP.JZY8l4WhTa7Gy9G0E6IXTAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.portodigital.org/)
+
+**Residência Tecnólogica do Porto Digital** `2025.2` \
+[**Porto Digital**](https://www.portodigital.org/) • Residência Tecnologica 2025.2: Capacita+ no 3º Lugar no Demoday 🥉🏆 \
+`Empregabilidade`, `Tecnologia`, `Inovação`. \
 <br/> 
 
 [<img align="left" height="48px" width="48px" alt="Porto Digital" src="https://tse4.mm.bing.net/th/id/OIP.JZY8l4WhTa7Gy9G0E6IXTAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.portodigital.org/)
 [<img align="left" height="48px" width="48px" alt="Cesar School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.cesar.school/)
 
-**Monitor de Projetos** • *2026.1* \
-Monitor de Projetos pela **Cesar School + Porto Digital** \
+**Monitor de Projetos** • 
+Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
 `Mentoria` • `Gestão de Projetos` • `Suporte Técnico` • `Liderança`
 <br/>
 
