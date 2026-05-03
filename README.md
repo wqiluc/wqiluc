@@ -92,6 +92,8 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=2496ed"/>
   <img src="https://img.shields.io/badge/-Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/-Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D"/>
+   <img src="https://img.shields.io/badge/Insomnia-111827?style=flat-square&logo=insomnia&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/-Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37"/>
   <img src="https://img.shields.io/badge/-Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/-PyAutoGUI-111827?style=flat-square&logo=python&logoColor=FF4500"/>
   <img src="https://img.shields.io/badge/-Pyperclip-111827?style=flat-square&logo=python&logoColor=pink"/>
@@ -375,7 +377,9 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <img src="https://img.shields.io/badge/-Docker-111827?style=flat-square&logo=docker&logoColor=2496ed"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D"/>
-  <img src="https://img.shields.io/badge/openapi.yml-111827?style=flat-square&logo=openapiinitiative&logoColor=green"/><br>
+  <img src="https://img.shields.io/badge/openapi.yml-111827?style=flat-square&logo=openapiinitiative&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Insomnia-111827?style=flat-square&logo=insomnia&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/-Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37"/><br>
   <img src="https://img.shields.io/badge/ESLint-111827?style=flat-square&logo=eslint&logoColor=4B32C3"/>
   <img src="https://img.shields.io/badge/Prettier-111827?style=flat-square&logo=prettier&logoColor=F7B93E"/>
   <img src="https://img.shields.io/badge/bcrypt-111827?style=flat-square&logo=letsencrypt&logoColor=white"/>
