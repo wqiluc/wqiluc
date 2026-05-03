@@ -363,7 +363,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
 <br>
 
 <div align="center">
-  <p style="font-size:1.2em;"> 🚀 API com Swagger e Node.js (TypeScript)</p>
+  <p style="font-size:1.2em;"> 🚀 API Node.js com UI para requisições interativas (TypeScript)</p>
   <p style="font-size:1.1em;"><a href="https://github.com/wqiluc/API_AND_Swagger_UI">🔗 Ver Repositório</a></p>
   <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code"/>
