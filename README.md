@@ -321,7 +321,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <p style="font-size:1.2em;">🐍📊 Python Impressionador — Hashtag Treinamentos</p>
   <p style="font-size:1.1em;"><a href="https://github.com/wqiluc/Python_Impressionador_HashtagTreinamentos">🔗 Ver Repositório</a></p>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
   <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
