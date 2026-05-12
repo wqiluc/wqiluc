@@ -76,7 +76,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <img src="https://img.shields.io/badge/-Vite-111827?style=flat-square&logo=vite&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/-CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css&logoColor=663399"/>
   <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/-C-111827?style=flat-square&logo=c&logoColor=A8B9CC"/>
@@ -112,7 +112,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
   <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/> 
-  <img src="https://img.shields.io/badge/-CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/> 
+  <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css&logoColor=663399"/> 
   <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/-Flask-111827?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jinja2-111827?style=flat-square&logo=jinja&logoColor=B41717"/>
@@ -130,7 +130,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
   <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/> 
-  <img src="https://img.shields.io/badge/-CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/> 
+  <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css&logoColor=663399"/> 
   <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <br>
     <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
@@ -157,7 +157,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br>
   <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css&logoColor=663399" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" />
@@ -417,7 +417,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
 <p>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
   <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/-CSS3-111827?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css&logoColor=663399"/>
   <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=blue"/> <br>
   <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=node.js&logoColor=green"/>
