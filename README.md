@@ -385,7 +385,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <p style="font-size:1.2em;"> 🚀 API Node.js com UI para requisições interativas (TypeScript)</p>
   <p style="font-size:1.1em;"><a href="https://github.com/wqiluc/API_AND_Swagger_UI">🔗 Ver Repositório</a></p>
   <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code"/> <br>
   <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/-NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E"/>
@@ -461,14 +461,4 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
 
 <p align="center">
   <img src="./img/footer.jpg" width="300">
-</p>
-
-
-
-<h2 align="center">📊 Métricas do Perfil: <br>
-<img src="https://img.shields.io/badge/-Métricas-111827?style=flat-square&logo=chartdotjs&logoColor=whitesmoke"/></h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wqiluc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7f00ff" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wqiluc&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff" height="180em"/>
 </p>
