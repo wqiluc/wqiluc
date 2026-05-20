@@ -279,6 +279,33 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <p align="center"> Automation </p>
 </p>
 
+<p align="center" style="font-size:1.2em;">
+  <strong>9️⃣ 🚀🎮 Kuhaku — Plataforma de Jogos Educacionais</strong>
+</p>
+<p align="center"><strong>Concluído ✅</strong></p>
+<p align="center" style="font-size:1.1em;"><a href="https://github.com/viictorpaes/Kuhaku">🔗 Ver Projeto ==> </a></p>
+<p align="center">Plataforma full-stack com temática espacial que gamifica o aprendizado através de quatro modos de jogo: batalha de sinais, mapas estelares, operação resgate e protocolo lógico — com ranking galáctico e arquitetura moderna.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E"/>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css&logoColor=663399"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/><br>
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Desktop-111827?style=flat-square&logo=github&logoColor=6F42C1"/>
+</p>
+<p align="center"><b>Full Stack</b></p>
+<br>
+
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
 <p align="center" style="font-size:1.2em;"> Algoritmos / Lógica de Programação — Hasgtag Treinamentos</p>
