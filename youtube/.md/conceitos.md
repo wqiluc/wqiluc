@@ -1,17 +1,19 @@
-<h1 align="center"> Conceitos Fundamentais de Git e GitHub <br>
-<p>
-<img src="../../img/gitgithub.jpeg" width="420"> <br>
+<h1 align="center">Conceitos Fundamentais de Git e GitHub</h1>
 
-<img src="https://img.shields.io/badge/Versionamento-Git-F05032?style=for-the-badge&logo=git&logoColor=orange&labelColor=black" width="180">
-<img src="https://img.shields.io/badge/Plataforma-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" width="180">
-<img src="https://img.shields.io/badge/Plataforma-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black" width="180">
-<img src="https://img.shields.io/badge/Conceito-Commit-2ECC71?style=for-the-badge&logo=git&logoColor=white&labelColor=black" width="180">
-<img src="https://img.shields.io/badge/Conceito-Branches-FF69B4?style=for-the-badge&logo=git&logoColor=white&labelColor=black" width="180">
-<img src="https://img.shields.io/badge/Conceito-Merge-00BCD4?style=for-the-badge&logo=git&logoColor=white&labelColor=black" width="180">
-<img src="https://img.shields.io/badge/Conceito-Repositório%20Remoto-8A2BE2?style=for-the-badge&logo=git&logoColor=white&labelColor=black" width="180">
-
+<p align="center">
+<img src="../../img/gitgithub.jpeg" width="420">
 </p>
-</h1>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Versionamento-Git-F05032?style=for-the-badge&logo=git&logoColor=orange&labelColor=black">
+<img src="https://img.shields.io/badge/Plataforma-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/Plataforma-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black">
+<br>
+<img src="https://img.shields.io/badge/Conceito-Commit-2ECC71?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/Conceito-Branches-FF69B4?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/Conceito-Merge-00BCD4?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
+<img src="https://img.shields.io/badge/Conceito-Repositório%20Remoto-8A2BE2?style=for-the-badge&logo=git&logoColor=white&labelColor=black">
+</p>
 
 # 1. Diferença entre <mark style="background-color: orange">Git</mark> e <mark style="background-color: lightblue">GitHub</mark>
 
@@ -119,7 +121,7 @@ Nesse exemplo:
 - "git add ." adiciona todos os arquivos modificados para a área de preparação;
 - "git commit" registra definitivamente as alterações no histórico do <mark style="background-color: orange">Git</mark>.
 
-Importância dos <mark style="background-color: lightgreen">Commits</mark>
+## Importância dos <mark style="background-color: lightgreen">Commits</mark>
 
 Os <mark style="background-color: lightgreen">commits</mark> são fundamentais no controle de versão porque permitem:
 
@@ -245,7 +247,9 @@ Aqui:
 
 ## Enviando alterações para o <mark style="background-color: violet">Repositório Remoto</mark>
 
+```bash
 git push origin main
+```
 
 Esse comando envia os <mark style="background-color: lightgreen">commits</mark> locais para o <mark style="background-color: violet">repositório remoto</mark>.
 

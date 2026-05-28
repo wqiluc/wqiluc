@@ -28,17 +28,24 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
 
 [<img align="left" height="64px" width="64px" alt="Warpnet" src="https://tse4.mm.bing.net/th/id/OIP.JZY8l4WhTa7Gy9G0E6IXTAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.portodigital.org/)
 
-**Residência Tecnólogica do Porto Digital** `2025.2` \
-[**Porto Digital**](https://www.portodigital.org/) • Residência Tecnologica 2025.2: Capacita+ no 3º Lugar no Demoday 🥉🏆 \
+**Residência Tecnológica do Porto Digital** `2025.2` \
+[**Porto Digital**](https://www.portodigital.org/) • Residência Tecnológica 2025.2: Capacita+ no 3º Lugar no Demoday 🥉🏆 \
 `Empregabilidade`, `Tecnologia`, `Inovação`. \
 <br/> 
 
-[<img align="left" height="48px" width="48px" alt="Porto Digital" src="https://tse4.mm.bing.net/th/id/OIP.JZY8l4WhTa7Gy9G0E6IXTAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.portodigital.org/)
-[<img align="left" height="48px" width="48px" alt="Cesar School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.cesar.school/)
+[<img align="left" height="64px" width="64px" alt="Porto Digital" src="https://tse4.mm.bing.net/th/id/OIP.JZY8l4WhTa7Gy9G0E6IXTAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.portodigital.org/)
+[<img align="left" height="64px" width="64px" alt="Cesar School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.cesar.school/)
 
 **Monitor de Projetos** • 
 Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
-`Mentoria` • `Gestão de Projetos` • `Suporte Técnico` • `Liderança`
+`Mentoria` • `Gestão de Projetos` • `Suporte Técnico` • `Liderança` \
+<br/>
+
+[<img align="left" height="64px" width="64px" alt="Hashtag Treinamentos" src="https://yt3.googleusercontent.com/vt0ITBdar63Z3XU9rljDCUWK-cPCBRutKGD_ctqMuMAAxZo6S-VO1Yy-uE-QnQutd9_NyGxyUlg=s900-c-k-c0x00ffffff-no-rj"/>](https://www.hashtagtreinamentos.com/)
+
+**Python, SQL, Automações, IA e Dados** \
+[**Hashtag Treinamentos**](https://www.hashtagtreinamentos.com/) • Cursos Online \
+`Python`, `SQL`, `Automações`, `IA`, `Dados`. \
 <br/>
 
 <h2 align="center">☎️ Contato</h2>
@@ -73,7 +80,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitLab-111827?style=flat-square&logo=gitlab&logoColor=FC6D26"/>
-  <img src="https://img.shields.io/badge/-Vite-111827?style=flat-square&logo=vite&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-Vite-111827?style=flat-square&logo=vite&logoColor=purple"/>
   <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css&logoColor=663399"/>
@@ -283,8 +290,34 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <strong>9️⃣ 🚀🎮 Kuhaku — Plataforma de Jogos Educacionais</strong>
 </p>
 <p align="center"><strong>Concluído ✅</strong></p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/viictorpaes/Kuhaku">🔗 Ver Projeto ==> </a></p>
-<p align="center">Plataforma full-stack com temática espacial que gamifica o aprendizado através de quatro modos de jogo: batalha de sinais, mapas estelares, operação resgate e protocolo lógico — com ranking galáctico e arquitetura moderna.</p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/viictorpaes/Kuhaku">🎯 Ver Projeto Full Stack ==> </a>
+</p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/viictorpaes/Jogo-da-Adivinhacao">🎯 Ver Versão em C ==> </a>
+</p>
+<p align="center"><b>Com temática espacial, o Kuhaku é uma plataforma full-stack que gamifica o aprendizado através de quatro modos de jogo: batalha de sinais, mapas estelares, operação resgate e protocolo lógico — com ranking galáctico e arquitetura moderna. Conta também com uma versão em C pura, rodando no terminal e em Raylib.</b></p>
+
+<h2 align="center"> ⛏️💻 Tecnologias Utilizadas — Versão em C:</h2>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code"/> <br>
+  <img src="https://img.shields.io/badge/-C-020617?style=flat-square&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/-Padrão_do_C_|_11-020617?style=flat-square&logo=c&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/-GCC-020617?style=flat-square&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Makefile-020617?style=flat-square&logo=probot&logoColor=red"/>
+  <img src="https://img.shields.io/badge/-Raylib-020617?style=flat-square&logo=raylib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-020617?style=flat-square&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/-🕹️%20Terminal-020617?style=flat-square" alt="Terminal">
+  <img src="https://img.shields.io/badge/-TXT%20/%20CSV-020617?style=flat-square&logo=files&logoColor=A85D00"/> <br>
+  <img src="https://img.shields.io/badge/-Prettier-020617?style=flat-square&logo=prettier&logoColor=F7B93E"/>
+  <img src="https://img.shields.io/badge/-Clang--Format-020617?style=flat-square&logo=llvm&logoColor=004488"/>
+  <img src="https://img.shields.io/badge/Architecture-020617?style=flat-square&logo=instructure&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-Git-020617?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/-GitHub-020617?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Desktop-020617?style=flat-square&logo=github&logoColor=6F42C1"/>
+</p>
+
+<h2 align="center"> ⛏️💻 Tecnologias Utilizadas — Full Stack (Node.js):</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/><br>
   <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
@@ -295,16 +328,26 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
   <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css&logoColor=663399"/>
   <img src="https://img.shields.io/badge/TailwindCSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
-  <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=purple"/>
   <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/><br>
+  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/ESLint-111827?style=flat-square&logo=eslint&logoColor=4B32C3"/>
+  <img src="https://img.shields.io/badge/Prettier-111827?style=flat-square&logo=prettier&logoColor=F7B93E"/><br>
   <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Desktop-111827?style=flat-square&logo=github&logoColor=6F42C1"/>
 </p>
-<p align="center"><b>Full Stack</b></p>
-<br>
+
+<h2 align="center">🖥️ Plataformas Disponíveis:</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/windows%2010%2F11-2563EB?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDBBREVGIiBkPSJNMTI2IDEuNjM3bC02NyA5LjgzNHY0OS44MzFsNjctLjUzNHpNMS42NDcgNjYuNzA5bC4wMDMgNDIuNDA0IDUwLjc5MSA2Ljk4My0uMDQtNDkuMDU3em01Ni44Mi42OGwuMDk0IDQ5LjQ2NSA2Ny4zNzYgOS41MDkuMDE2LTU4Ljg2M3pNMS42MSAxOS4yOTdsLjA0NyA0Mi4zODMgNTAuNzkxLS4yODktLjAyMy00OS4wMTZ6Ii8+PC9zdmc+" alt="Windows 10/11"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Linux / Ubuntu"/>
+<img src="https://img.shields.io/badge/macOS-white?style=flat&logo=apple&logoColor=black" alt="macOS"/>
+</p>
+
+<p align="center"><b>Full Stack + Versão em C</b></p>
+
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
