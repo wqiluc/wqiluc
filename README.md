@@ -16,7 +16,6 @@ Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. De
   <img alt="Focus" src="https://img.shields.io/badge/Focus-IA%2C%20Machine%20Learning%20%26%20Automation-black?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-
 <h2 align="left"> <b>Experiências Acadêmicas: </b></h2>
 
 [<img align="left" height="64px" width="64px" alt="Cesar School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.cesar.school/)
@@ -46,6 +45,13 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
 **Python, SQL, Automações, IA e Dados** \
 [**Hashtag Treinamentos**](https://www.hashtagtreinamentos.com/) • Cursos Online \
 `Python`, `SQL`, `Automações`, `IA`, `Dados`. \
+<br/>
+
+<img align="left" height="64px" width="64px" alt="Ideathon RFEC" src="./img/Rfec_logo.jpeg"/>
+
+**Ideathon RFEC: DAI** `01.08` \
+Ideathon promovido pela **RFEC**, em parceria com FIAP, HostGator e Red Bull \
+`DAI`, `Inovação`, `Ideação`, `Trabalho em Equipe`. \
 <br/>
 
 <h2 align="center">☎️ Contato</h2>
