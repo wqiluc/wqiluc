@@ -25,7 +25,6 @@
 </a>
 </div>
 
-
 <h2 align="center">💻⛏️ Tecnologias e LLM's utilizadas: </h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
@@ -133,6 +132,4 @@ Transforma dados em conhecimento acionável, substituindo achismo por evidência
 
 ## 🤔 O que a Estatística tem a ver comigo?
 
-> _Espaço reservado para minha resposta pessoal:_
->
-> (escreva aqui a sua reflexão)
+> Eu sempre achei que Estatística era só fórmula decorada e termos técnicos, mas; fazendo essa atividade: percebi que usamos isso o tempo todo sem perceber: quando olho quantos commits fiz na semana, comparo se um código ficou mais rápido, fazer uma conta/comparativo rápido. No fim é isso: parar de confiar no achismo e olhar pro que os dados realmente mostram. É algo que vou levar pro resto do curso e da vida, principalmente pra área de dados/ML que curto.
