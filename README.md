@@ -6,7 +6,7 @@
 Me chamo <br><strong>Lucas Paguetti</strong></h1>
 
 <p align="center">
-Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. Desenvolvedor que busca solucionar problemas reais e facilitar a vida com tecnologia.
+Desenvolvedor Backend && Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. Desenvolvedor que busca solucionar problemas reais e facilitar a vida com tecnologia.
 </p>
 <br>
 <p align="center">
@@ -82,7 +82,7 @@ Ideathon promovido pela **RFEC**, em parceria com FIAP, HostGator e Red Bull \
 
 <h2 align="center">⛏️💻 Tecnologias e Stacks Principais</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-VSCode-111827?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
   <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitLab-111827?style=flat-square&logo=gitlab&logoColor=FC6D26"/>
@@ -93,7 +93,10 @@ Ideathon promovido pela **RFEC**, em parceria com FIAP, HostGator e Red Bull \
   <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/-C-111827?style=flat-square&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/GCC-111827?style=flat-square&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCC-111827?style=flat-square&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/-Java-111827?style=flat-square&logo=openjdk&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot%20-111827?style=flat-square&logo=springboot&logoColor=6DB33F"/>
   <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/-NPM-111827?style=flat-square&logo=npm&logoColor=CB3837"/>
   <img src="https://img.shields.io/badge/-Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -362,6 +365,23 @@ Ideathon promovido pela **RFEC**, em parceria com FIAP, HostGator e Red Bull \
 
 <p align="center"><b>Full Stack + Versão em C</b></p>
 
+<p align="center" style="font-size:1.2em;">
+  <strong>🔟 🆔🚑 DAI — Dados de Acessibilidade e Identificação</strong>
+</p>
+<p align="center"><strong>Concluído ✅</strong></p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/wqiluc/Ideathon_Rfec_2026_2_MVP-DAI">🔗 Ver Projeto ==> </a>
+</p>
+<p align="center"><b>Criado no Ideathon RFEC 2026.2 pela equipe Titãs Tech, o DAI — Dados de Acessibilidade e Identificação é uma iniciativa figital que transforma informações médicas essenciais em um QR Code inteligente, agilizando atendimentos de emergência com foco em pessoas com deficiência visual.</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Claude-111827?style=flat-square&logo=claude&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/-Google%20Slides-111827?style=flat-square&logo=googleslides&logoColor=FBBC04"/>
+  <img src="https://img.shields.io/badge/-📋%20Gestão%20de%20Projetos-111827?style=flat-square"/>
+</p>
+
+<br>
 
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
