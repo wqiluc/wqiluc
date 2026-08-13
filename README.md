@@ -47,7 +47,7 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
 `Python`, `SQL`, `Automações`, `IA`, `Dados`. \
 <br/>
 
-<img align="left" height="64px" width="64px" alt="Ideathon RFEC" src="./img/RedBull_logo.jpeg"/>
+<img align="left" height="64px" width="64px" alt="Ideathon RFEC" src="./img/RedBull_logo_square.jpeg"/>
 
 **Ideathon RFEC: DAI** `01.08` \
 Ideathon promovido pela **RFEC**, em parceria com FIAP, HostGator e Red Bull \
