@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/styles.css">
+    <title>Atividade 2 - Estátistica</title>
+</head>
+<body>
+
+    <header class="hero">
+        <h1><span class="accent-claude">Cesar School</span> — <span class="accent-gemini">Atividade 2: Assimetria e Curtose</span></h1>
+        <p class="hero-lede">Pesquisa comparando <strong>Claude</strong> e <strong>Gemini</strong> sobre assimetria e curtose, com gráficos gerados em <code>pandas</code> + <code>matplotlib</code> exemplificando cada conceito com dados simulados.</p>
+        <div class="badge-row">
+            <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=orange" alt="Claude">
+            <img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+            <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+            <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=python&logoColor=11557C" alt="Matplotlib">
+        </div>
+        <img class="hero-img" src="../img/assimetria_curtose.png" alt="tela atividade" width="450">
+    </header>
+
+    <main>
+        <section class="card author-card">
+            <h2>👨🏻‍💻 Autor deste Repositório</h2>
+            <p class="author-name">Lucas Paguetti Pereira 🧙‍♂️</p>
+            <p>🏫 <strong>Instituição:</strong> Cesar School 🎓🧡</p>
+            <p>📍 Recife, Pernambuco — <strong>Brazil</strong> 🇧🇷</p>
+
+            <div class="badges">
+                <a href="https://www.instagram.com/lucpaguetti/" target="_blank" rel="noopener">
+                    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">
+                </a>
+                <a href="https://github.com/wqiluc" target="_blank" rel="noopener">
+                    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+                </a>
+                <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b/" target="_blank" rel="noopener">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+                </a>
+                <a href="mailto:lpp2@cesar.school">
+                    <img src="https://img.shields.io/badge/Contact%20Me-lpp2%40cesar.school-FFA500?style=for-the-badge&logo=gmail&logoColor=orange" alt="Contato">
+                </a>
+                <a href="https://discord.com/users/lucaspaguettipereira" target="_blank" rel="noopener">
+                    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
+                </a>
+            </div>
+        </section>
+
+        <section class="card" id="arquitetura">
+            <h2>🏛️ Arquitetura desta Atividade</h2>
+            <pre class="repo-tree">atividade 2 - Estátistica/
+├── img/ <img src="https://img.shields.io/badge/Assets-Imagens-orange?style=flat-square&logo=icloud&logoColor=white" alt="Assets">
+│   ├── assimetria_curtose.png
+│   ├── distribuicoes.svg
+│   ├── imagem1.png <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white" height="14" alt="Pandas"> <img src="https://img.shields.io/badge/-Matplotlib-111827?style=flat-square&logo=python&logoColor=11557C" height="14" alt="Matplotlib">
+│   ├── imagem2.png <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white" height="14" alt="Pandas"> <img src="https://img.shields.io/badge/-Matplotlib-111827?style=flat-square&logo=python&logoColor=11557C" height="14" alt="Matplotlib">
+│   ├── imagem3.png <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white" height="14" alt="Pandas"> <img src="https://img.shields.io/badge/-Matplotlib-111827?style=flat-square&logo=python&logoColor=11557C" height="14" alt="Matplotlib">
+│   └── imagem4.png <img src="https://img.shields.io/badge/-Pandas-111827?style=flat-square&logo=pandas&logoColor=white" height="14" alt="Pandas"> <img src="https://img.shields.io/badge/-Matplotlib-111827?style=flat-square&logo=python&logoColor=11557C" height="14" alt="Matplotlib">
+│
+├── md/ <img src="https://img.shields.io/badge/Doc-Markdown-lightgrey?style=flat-square&logo=markdown" alt="Markdown">
+│   └── ASSIMETRIA_CURTOSE.md
+│
+├── pages/ <img src="https://img.shields.io/badge/-HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+│   └── index.html
+│
+└── styles/ <img src="https://img.shields.io/badge/-CSS-111827?style=flat-square&logo=css&logoColor=663399" alt="CSS">
+    └── styles.css</pre>
+        </section>
+
+        <section class="card toc-card" id="sumario">
+            <h2>📋 Sumário da Pesquisa</h2>
+            <table>
+                <thead>
+                    <tr><th>Bloco</th><th>Pergunta</th><th>Status</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td data-label="Bloco"><a href="#bloco-1a">1a</a></td><td data-label="Pergunta">O que é assimetria?</td><td data-label="Status" class="status-ok">✅</td></tr>
+                    <tr><td data-label="Bloco"><a href="#bloco-1b">1b</a></td><td data-label="Pergunta">O que é curtose?</td><td data-label="Status" class="status-ok">✅</td></tr>
+                    <tr><td data-label="Bloco"><a href="#bloco-2a">2a</a></td><td data-label="Pergunta">Assimetria positiva vs. negativa?</td><td data-label="Status" class="status-ok">✅</td></tr>
+                    <tr><td data-label="Bloco"><a href="#bloco-2b">2b</a></td><td data-label="Pergunta">Lepto, meso e platicúrtica?</td><td data-label="Status" class="status-ok">✅</td></tr>
+                    <tr><td data-label="Bloco"><a href="#bloco-3">3</a></td><td data-label="Pergunta">Pra que serve na prática?</td><td data-label="Status" class="status-ok">✅</td></tr>
+                    <tr><td data-label="Bloco"><a href="#bloco-4a">4a</a></td><td data-label="Pergunta">Exemplo de mercado — renda</td><td data-label="Status" class="status-ok">✅</td></tr>
+                    <tr><td data-label="Bloco"><a href="#bloco-4b">4b</a></td><td data-label="Pergunta">Exemplo de mercado — ativos financeiros</td><td data-label="Status" class="status-ok">✅</td></tr>
+                    <tr><td data-label="Bloco"><a href="#bloco-4c">4c</a></td><td data-label="Pergunta">Bônus — latência e seguros</td><td data-label="Status" class="status-ok">✅</td></tr>
+                    <tr><td data-label="Bloco"><a href="#bloco-5">5</a></td><td data-label="Pergunta">Ligação com média, mediana e moda</td><td data-label="Status" class="status-ok">✅</td></tr>
+                    <tr><td data-label="Bloco"><a href="#bloco-6">6</a></td><td data-label="Pergunta">Onde os LLMs divergiram</td><td data-label="Status" class="status-ok">✅</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section class="card">
+            <h2>📝 Prompt utilizado</h2>
+            <p>Enviei a mesma pergunta para os dois LLMs, sem mostrar a resposta de um para o outro:</p>
+            <p class="prompt-box">"Explique com suas próprias palavras o que são assimetria e curtose em estatística, como se interpretam (assimetria positiva/negativa, distribuição leptocúrtica/mesocúrtica/platicúrtica), pra que servem na prática, onde aparecem no mercado, e como elas mudam a relação entre média, mediana e moda."</p>
+        </section>
+
+        <section class="card">
+            <h2>📈 Assimetria e curtose, visualmente</h2>
+            <p>Assimetria é um conceito visual — o gráfico abaixo mostra as três formas de assimetria (com a posição de média, mediana e moda em cada uma) e as três classificações de curtose:</p>
+            <img class="diagram-img" src="../img/distribuicoes.svg" alt="Diagrama comparando assimetria negativa, simétrica e positiva; e curtose platicúrtica, mesocúrtica e leptocúrtica" width="700">
+            <p class="caption">E abaixo, a mesma ideia com dados simulados de verdade — geração via <code>numpy</code>, manipulação com <code>pandas</code> (<code>.skew()</code> e <code>.kurt()</code>) e plot com <code>matplotlib</code>:</p>
+            <img class="diagram-img" src="../img/imagem3.png" alt="Seis histogramas simulados: assimetria negativa, simétrica e positiva na linha de cima; platicúrtica, mesocúrtica e leptocúrtica na linha de baixo, com skew/kurt calculados pelo pandas" width="700">
+            <p class="caption">Os valores de <code>skew</code>/<code>kurt</code> impressos em cada painel confirmam a teoria: assimetria negativa dá <code>skew &lt; 0</code>, positiva dá <code>skew &gt; 0</code>, e a leptocúrtica tem <code>kurt</code> bem acima de 0, enquanto a platicúrtica fica negativa.</p>
+        </section>
+
+        <section class="card" id="bloco-1a">
+            <h2>Bloco 1a — O que é assimetria?</h2>
+            <div class="compare-grid">
+                <div class="compare-col claude-col">
+                    <h3 class="llm-tag claude-tag">Claude</h3>
+                    <p>Mede o quanto uma distribuição de dados é desequilibrada em torno da média — se a "cauda" se estica mais para um lado do que para o outro. Responde: <em>os valores estão espalhados de forma equilibrada, ou algo puxa a distribuição para um lado?</em></p>
+                </div>
+                <div class="compare-col gemini-col">
+                    <h3 class="llm-tag gemini-tag">Gemini</h3>
+                    <p>Descreve a falta de simetria de uma distribuição: mostra se os valores se concentram mais à esquerda (cauda longa à direita) ou mais à direita (cauda longa à esquerda) da média. Responde: <em>a distribuição é simétrica, ou "puxada" para um lado?</em></p>
+                </div>
+            </div>
+            <blockquote>🔎 As duas convergem: assimetria fala sobre equilíbrio/direção da distribuição.</blockquote>
+        </section>
+
+        <section class="card" id="bloco-1b">
+            <h2>Bloco 1b — O que é curtose?</h2>
+            <div class="compare-grid">
+                <div class="compare-col claude-col">
+                    <h3 class="llm-tag claude-tag">Claude</h3>
+                    <p>Mede o quão "afunilada" é a distribuição perto do centro, e principalmente o quão pesadas são as caudas, comparado a uma normal. Responde: <em>há muitos valores extremos (outliers), ou os dados estão mais espalhados/achatados?</em></p>
+                </div>
+                <div class="compare-col gemini-col">
+                    <h3 class="llm-tag gemini-tag">Gemini</h3>
+                    <p>Descreve o formato do pico e das caudas em relação à normal: mais "pontuda" e propensa a outliers, ou mais achatada e com caudas leves. Responde: <em>quão prováveis são os valores extremos, comparado ao que a normal previria?</em></p>
+                </div>
+            </div>
+            <blockquote>🔎 Convergem: curtose fala sobre "peso" das caudas e altura do pico.</blockquote>
+        </section>
+
+        <section class="card" id="bloco-2a">
+            <h2>Bloco 2a — Assimetria positiva vs. negativa</h2>
+            <table>
+                <thead>
+                    <tr><th>Tipo</th><th>Cauda longa</th><th>Ordem (média/mediana/moda)</th><th>Exemplo</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td data-label="Tipo">Assimetria positiva</td><td data-label="Cauda longa">à direita</td><td data-label="Ordem"><code>moda &lt; mediana &lt; média</code></td><td data-label="Exemplo">renda, latência</td></tr>
+                    <tr><td data-label="Tipo">Assimetria negativa</td><td data-label="Cauda longa">à esquerda</td><td data-label="Ordem"><code>média &lt; mediana &lt; moda</code></td><td data-label="Exemplo">idade de aposentadoria, nota de prova fácil</td></tr>
+                </tbody>
+            </table>
+            <p class="block-sub">Claude e Gemini concordaram nessa classificação — sem divergência aqui.</p>
+        </section>
+
+        <section class="card" id="bloco-2b">
+            <h2>Bloco 2b — As três formas de curtose</h2>
+            <table>
+                <thead>
+                    <tr><th>Tipo</th><th>Excesso de curtose (Fisher)</th><th>Curtose de Pearson</th><th>Formato</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td data-label="Tipo">Leptocúrtica</td><td data-label="Fisher"><code>&gt; 0</code></td><td data-label="Pearson"><code>&gt; 3</code></td><td data-label="Formato">pico alto, caudas pesadas</td></tr>
+                    <tr><td data-label="Tipo">Mesocúrtica</td><td data-label="Fisher"><code>≈ 0</code></td><td data-label="Pearson"><code>≈ 3</code></td><td data-label="Formato">igual à normal</td></tr>
+                    <tr><td data-label="Tipo">Platicúrtica</td><td data-label="Fisher"><code>&lt; 0</code></td><td data-label="Pearson"><code>&lt; 3</code></td><td data-label="Formato">achatada, caudas leves</td></tr>
+                </tbody>
+            </table>
+            <p class="block-sub">O Claude usou a convenção de Fisher (0), o Gemini usou a de Pearson (3) — ver <a href="#bloco-6">Bloco 6</a>.</p>
+        </section>
+
+        <section class="card" id="bloco-3">
+            <h2>Bloco 3 — Para que serve na prática?</h2>
+            <table>
+                <thead>
+                    <tr><th>Situação</th><th>Decisão que muda</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td data-label="Situação">Dados assimétricos</td><td data-label="Decisão">usar <strong>mediana</strong> em vez de média como medida representativa</td></tr>
+                    <tr><td data-label="Situação">Distribuição leptocúrtica</td><td data-label="Decisão">medir risco por quantis (VaR/CVaR), não só desvio padrão</td></tr>
+                    <tr><td data-label="Situação">Curtose alta</td><td data-label="Decisão">reservar mais capital/margem para eventos extremos</td></tr>
+                    <tr><td data-label="Situação">Dados fora da normal</td><td data-label="Decisão">usar testes não paramétricos / simulações (Monte Carlo)</td></tr>
+                    <tr><td data-label="Situação">Precificação (seguros, opções)</td><td data-label="Decisão">considerar a chance real de eventos extremos, não só a média histórica</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section class="card" id="bloco-4a">
+            <h2>Bloco 4a — Mercado: distribuição de renda</h2>
+            <p>Fortemente <strong>assimétrica positiva</strong>: a maioria ganha valores relativamente baixos, e uma pequena minoria ganha muito mais, puxando a cauda (e a média) para a direita.</p>
+            <img class="diagram-img" src="../img/imagem1.png" alt="Histograma de renda mensal simulada com linhas de média (R$ 3.576), mediana (R$ 3.005) e moda (R$ 2.235)" width="600">
+            <p class="caption">Renda simulada (log-normal) com <code>numpy</code> + <code>pandas</code>: note a ordem <code>moda &lt; mediana &lt; média</code> no histograma.</p>
+            <blockquote>🔎 Por que a média falha: ela é "sequestrada" pelos altos salários — dizer "a renda média é R$X" passa a impressão de um padrão de vida mais alto do que o da maioria. A mediana representa melhor o que a pessoa "típica" ganha.</blockquote>
+        </section>
+
+        <section class="card" id="bloco-4b">
+            <h2>Bloco 4b — Mercado: retornos de ativos financeiros</h2>
+            <p>Retornos diários de ações e índices costumam ser <strong>leptocúrticos</strong> ("fat tails"): quedas e altas bruscas acontecem com frequência maior do que uma normal preveria.</p>
+            <img class="diagram-img" src="../img/imagem2.png" alt="Histograma em escala log comparando retornos normais e retornos com cauda pesada (Laplace), mesma variância" width="600">
+            <p class="caption">Mesma variância, risco de cauda muito diferente — em escala log fica visível quanto a distribuição leptocúrtica (laranja) tem mais massa longe do centro.</p>
+            <blockquote>🔎 Por que a média falha: o desvio padrão, se usado como se os dados fossem normais, subestima a chance de eventos extremos — crashes, flash crashes — que são justamente os que mais importam para gestão de risco.</blockquote>
+        </section>
+
+        <section class="card" id="bloco-4c">
+            <h2>Bloco 4c — Bônus: latência e seguros</h2>
+            <table>
+                <thead>
+                    <tr><th>Exemplo</th><th>Formato</th><th>Por que a média engana</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td data-label="Exemplo">Latência de sistemas</td><td data-label="Formato">assimétrica positiva</td><td data-label="Motivo">cauda de requisições lentas some na média; por isso se usa p95/p99</td></tr>
+                    <tr><td data-label="Exemplo">Sinistros de seguros</td><td data-label="Formato">assimétrica + curtose alta</td><td data-label="Motivo">poucos eventos catastróficos ficam escondidos na média histórica</td></tr>
+                </tbody>
+            </table>
+            <img class="diagram-img" src="../img/imagem4.png" alt="Histograma de latência simulada com linhas de média (144ms), mediana (121ms), p95 (151ms) e p99 (1006ms)" width="600">
+            <p class="caption">A média (144ms) fica perto do caso comum, mas o p99 (1006ms) mostra que 1% das requisições demora vários segundos — por isso times de engenharia monitoram percentis, não a média.</p>
+            <p class="block-sub">Exemplos trazidos pelo Gemini — complementam os do Claude nos Blocos 4a/4b.</p>
+        </section>
+
+        <section class="card" id="bloco-5">
+            <h2>Bloco 5 — Ligação com média, mediana e moda</h2>
+            <p>Numa distribuição simétrica e unimodal, as três coincidem. Conforme a assimetria aumenta, elas se separam — a <strong>mediana fica sempre no meio</strong>, e a <strong>média é a mais "puxada"</strong> para o lado da cauda longa.</p>
+            <table>
+                <thead>
+                    <tr><th>Assimetria</th><th>Ordem</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td data-label="Assimetria">Nenhuma (simétrica)</td><td data-label="Ordem"><code>média = mediana = moda</code></td></tr>
+                    <tr><td data-label="Assimetria">Positiva (cauda à direita)</td><td data-label="Ordem"><code>moda &lt; mediana &lt; média</code></td></tr>
+                    <tr><td data-label="Assimetria">Negativa (cauda à esquerda)</td><td data-label="Ordem"><code>média &lt; mediana &lt; moda</code></td></tr>
+                </tbody>
+            </table>
+            <p class="block-sub">O Gemini acrescentou: a distância <code>média − mediana</code> pode ser usada como indicador informal de assimetria.</p>
+        </section>
+
+        <section class="card" id="bloco-6">
+            <h2>Bloco 6 — Onde os dois LLMs divergiram</h2>
+            <table>
+                <thead>
+                    <tr><th>Aspecto</th><th class="claude-tag" style="display:table-cell;border-radius:0;">Claude</th><th class="gemini-tag" style="display:table-cell;border-radius:0;">Gemini</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td data-label="Aspecto">Convenção de curtose</td><td data-label="Claude">Excesso de Fisher — normal = <code>0</code></td><td data-label="Gemini">Curtose de Pearson — normal = <code>3</code></td></tr>
+                    <tr><td data-label="Aspecto">Leptocúrtica é...</td><td data-label="Claude"><code>&gt; 0</code></td><td data-label="Gemini"><code>&gt; 3</code></td></tr>
+                </tbody>
+            </table>
+            <blockquote>🔎 Nenhum dos dois estava errado — são duas convenções matemáticas para a mesma ideia: <code>curtose de Fisher = curtose de Pearson − 3</code>. Confirmei numa fonte adicional (material de estatística descritiva sobre medidas de forma) que a maioria das bibliotecas modernas (ex.: <code>pandas.Series.kurt()</code>) usa o excesso de Fisher por padrão, mas planilhas e alguns livros-texto ainda usam a curtose de Pearson.</blockquote>
+        </section>
+
+        <section class="card" id="fontes">
+            <h2>🛠️ Ferramentas e fontes utilizadas</h2>
+            <table>
+                <thead>
+                    <tr><th>Ferramenta</th><th>Papel</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td data-label="Ferramenta">Claude</td><td data-label="Papel">coluna "Claude" nos Blocos 1–5 e apoio na estruturação/redação da atividade</td></tr>
+                    <tr><td data-label="Ferramenta">Gemini</td><td data-label="Papel">coluna "Gemini" nos Blocos 1–5, gerada de forma independente (mesmo prompt)</td></tr>
+                    <tr><td data-label="Ferramenta">pandas</td><td data-label="Papel">manipulação dos dados simulados e cálculo de <code>.mean()</code>, <code>.median()</code>, <code>.skew()</code>, <code>.kurt()</code>, <code>.quantile()</code></td></tr>
+                    <tr><td data-label="Ferramenta">matplotlib</td><td data-label="Papel">geração dos gráficos das seções 4a, 4b, 4c e do comparativo de 6 formas (<code>imagem1.png</code> a <code>imagem4.png</code>)</td></tr>
+                    <tr><td data-label="Ferramenta">Fonte adicional</td><td data-label="Papel">material de estatística descritiva sobre medidas de forma, usado para confirmar a divergência Fisher × Pearson no Bloco 6</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Feito por <strong>Lucas Paguetti Pereira</strong> — Cesar School 🎓</p>
+    </footer>
+
+</body>
+</html>
