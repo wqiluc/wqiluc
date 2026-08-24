@@ -313,25 +313,25 @@ Ideathon promovido pela **RFEC**, em parceria com FIAP, HostGator e Red Bull \
 <p align="center" style="font-size:1.1em;">
   <a href="https://github.com/viictorpaes/Jogo-da-Adivinhacao">🎯 Ver Versão em C ==> </a>
 </p>
-<p align="center"><b>Com temática espacial, o Kuhaku é uma plataforma full-stack que gamifica o aprendizado através de quatro modos de jogo: batalha de sinais, mapas estelares, operação resgate e protocolo lógico — com ranking galáctico e arquitetura moderna. Conta também com uma versão em C pura, rodando no terminal e em Raylib.</b></p>
+<p align="center"><b>Projeto Integrador do 2º semestre de ADS (CESAR School, 2026.1). Com temática espacial, o Kuhaku é uma plataforma full-stack que gamifica o aprendizado através de quatro modos de jogo: batalha de sinais, mapas estelares, operação resgate e protocolo lógico — com ranking galáctico e arquitetura moderna. Conta também com uma versão em C pura, rodando no terminal e em Raylib.</b></p>
 
 <h2 align="center"> ⛏️💻 Tecnologias Utilizadas — Versão em C:</h2>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code"/> <br>
-  <img src="https://img.shields.io/badge/-C-020617?style=flat-square&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/-Padrão_do_C_|_11-020617?style=flat-square&logo=c&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/-GCC-020617?style=flat-square&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Makefile-020617?style=flat-square&logo=probot&logoColor=red"/>
-  <img src="https://img.shields.io/badge/-Raylib-020617?style=flat-square&logo=raylib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-020617?style=flat-square&logo=figma&logoColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/-🕹️%20Terminal-020617?style=flat-square" alt="Terminal">
-  <img src="https://img.shields.io/badge/-TXT%20/%20CSV-020617?style=flat-square&logo=files&logoColor=A85D00"/> <br>
-  <img src="https://img.shields.io/badge/-Prettier-020617?style=flat-square&logo=prettier&logoColor=F7B93E"/>
-  <img src="https://img.shields.io/badge/-Clang--Format-020617?style=flat-square&logo=llvm&logoColor=004488"/>
-  <img src="https://img.shields.io/badge/Architecture-020617?style=flat-square&logo=instructure&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/-Git-020617?style=flat-square&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/-GitHub-020617?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub%20Desktop-020617?style=flat-square&logo=github&logoColor=6F42C1"/>
+  <img src="https://img.shields.io/badge/-C-111827?style=flat-square&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/-Padrão_do_C_|_11-111827?style=flat-square&logo=c&logoColor=pink"/>
+  <img src="https://img.shields.io/badge/-GCC-111827?style=flat-square&logo=gnu&logoColor=pink"/>
+  <img src="https://img.shields.io/badge/-Makefile-111827?style=flat-square&logo=probot&logoColor=red"/>
+  <img src="https://img.shields.io/badge/-Raylib-111827?style=flat-square&logo=raylib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/-🕹️%20Terminal-111827?style=flat-square" alt="Terminal">
+  <img src="https://img.shields.io/badge/-TXT%20/%20CSV-111827?style=flat-square&logo=files&logoColor=A85D00"/> <br>
+  <img src="https://img.shields.io/badge/-Prettier-111827?style=flat-square&logo=prettier&logoColor=F7B93E"/>
+  <img src="https://img.shields.io/badge/-Clang--Format-111827?style=flat-square&logo=llvm&logoColor=004488"/>
+  <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Desktop-111827?style=flat-square&logo=github&logoColor=6F42C1"/>
 </p>
 
 <h2 align="center"> ⛏️💻 Tecnologias Utilizadas — Full Stack (Node.js):</h2>
@@ -380,6 +380,32 @@ Ideathon promovido pela **RFEC**, em parceria com FIAP, HostGator e Red Bull \
   <img src="https://img.shields.io/badge/-Google%20Slides-111827?style=flat-square&logo=googleslides&logoColor=FBBC04"/>
   <img src="https://img.shields.io/badge/-📋%20Gestão%20de%20Projetos-111827?style=flat-square"/>
 </p>
+
+<br>
+
+<p align="center" style="font-size:1.2em;">
+  <strong>1️⃣1️⃣ 🩸🚑 Rota Vital — Gestão e Distribuição de Hemocomponentes</strong>
+</p>
+<p align="center"><strong>Em andamento . . .</strong></p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/viictorpaes/Rotavital">🔗 Ver Projeto ==> </a>
+</p>
+<p align="center"><b>Projeto Integrador do 3º semestre de ADS (CESAR School, 2026.2). Aplicação web em Java/Spring Boot que apoia a rede de sangue na gestão e distribuição de hemocomponentes: controla o estoque por tipo e componente, recebe requisições dos hospitais, aloca bolsas compatíveis priorizando a validade (FEFO), calcula rotas de distribuição respeitando a cadeia fria e as janelas de tempo, e monitora temperatura e rede em painéis. Inspirado no fluxo da Hemorrede/SUS (centros de coleta e doação → hemocentro de processamento e controle → estoque → hospitais), utiliza exclusivamente dados sintéticos.</b></p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="32" height="32" alt="VS Code"/> <br>
+  <img src="https://img.shields.io/badge/-Java_21-111827?style=flat-square&logo=openjdk&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-Spring Boot-111827?style=flat-square&logo=springboot&logoColor=green"/>
+  <img src="https://img.shields.io/badge/-Maven-111827?style=flat-square&logo=apachemaven&logoColor=C71A36"/>
+  <img src="https://img.shields.io/badge/-JUnit_5-111827?style=flat-square&logo=junit5&logoColor=25A162"/>
+  <img src="https://img.shields.io/badge/-OpenAPI_3.0.3-111827?style=flat-square&logo=openapiinitiative&logoColor=6BA539"/> <br>
+  <img src="https://img.shields.io/badge/-Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Desktop-111827?style=flat-square&logo=github&logoColor=6F42C1"/>
+</p>
+<p align="center"><strong>Projeto Integrador (Java/Spring Boot)</strong></p>
 
 <br>
 
@@ -540,23 +566,28 @@ Ideathon promovido pela **RFEC**, em parceria com FIAP, HostGator e Red Bull \
 
 <br>
 
-<p align="center" style="font-size:1.2em;"> ⚙️🧭 Estudos em C — Repositório de Estudos</p>
-<p align="center" style="font-size:1.1em;"><a href="https://github.com/wqiluc/Repositorio-de-Estudos-em-C">🔗 Ver Repositório</a></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
-    <img src="https://img.shields.io/badge/-C-111827?style=flat-square&logo=c&logoColor=A8B9CC"/>
-    <img src="https://img.shields.io/badge/-C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C"/>
-    <img src="https://img.shields.io/badge/-C%23-111827?style=flat-square&logo=csharp&logoColor=239120"/>
-    <img src="https://img.shields.io/badge/-CMake-111827?style=flat-square&logo=cmake&logoColor=064F8C"/>
-    <img src="https://img.shields.io/badge/GCC-111827?style=flat-square&logo=gnu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-G++-111827?style=flat-square&logo=gnu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/🤖Algoritmos-111827?style=flat-square&logo=code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Architecture-111827?style=flat-square&logo=instructure&logoColor=white" />
-    <img src="https://img.shields.io/badge/🧭Pointers-111827?style=flat-square&logo=code&logoColor=FF4500" />
-  <br>
-    <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
-    <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+<div align="center">
+<p style="font-size:1.2em;"> 🏆🚀 Ciclo GrowUp Cesar 2026.2</p>
+<p style="font-size:1.1em;"><a href="https://github.com/wqiluc/Ciclo-GrowUp-Cesar">🔗 Ver Repositório</a></p>
+<p>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/> <br>
+  <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/-Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/-NPM-111827?style=flat-square&logo=npm&logoColor=CB3837"/>
+  <img src="https://img.shields.io/badge/-JSON-111827?style=flat-square&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-111827?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Fastify-111827?style=flat-square&logo=fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Knex-111827?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Zod-111827?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/-Flask-111827?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQLAlchemy-111827?style=flat-&logo=python&logoColor=red"/>
+  <img src="https://img.shields.io/badge/-Markdown-111827?style=flat-square&logo=markdown&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/-GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub_Desktop-111827?style=flat-square&logo=github&logoColor=purple"/>
 </p>
+</div>
 
 <h2 align="center">🚀 Vamos nos conectar?</h2>
 <p align="center">
