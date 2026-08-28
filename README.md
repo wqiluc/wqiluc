@@ -40,6 +40,14 @@ Monitor de Projetos pela **Cesar School + Porto Digital** `2026.1` \
 `Mentoria` • `Gestão de Projetos` • `Suporte Técnico` • `Liderança` \
 <br/>
 
+[<img align="left" height="64px" width="64px" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org/)
+[<img align="left" height="64px" width="64px" alt="Cesar School" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.cesar.school/)
+
+**Monitor de Fundamentos e Desenvolvimento de Softwares (Python)** • 
+Monitoria pela **Cesar School** `2026.2` \
+`Python` • `Fundamentos de Software` • `Mentoria` • `Suporte Técnico` \
+<br/>
+
 [<img align="left" height="64px" width="64px" alt="Hashtag Treinamentos" src="https://yt3.googleusercontent.com/vt0ITBdar63Z3XU9rljDCUWK-cPCBRutKGD_ctqMuMAAxZo6S-VO1Yy-uE-QnQutd9_NyGxyUlg=s900-c-k-c0x00ffffff-no-rj"/>](https://www.hashtagtreinamentos.com/)
 
 **Python, SQL, Automações, IA e Dados** \
