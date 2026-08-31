@@ -1,8 +1,8 @@
 <p align="center">
-<img src="./img/header.gif" alt="header" width="420">
+<img src="./img/spider-man_header.gif" alt="header" width="420">
 </p>
 
-<h1 align="center">👋 Olá, é um prazer em te conhecer. <br> 
+<h1 align="center">👋🕷️ Olá, é um prazer em te conhecer. <br> 
 Me chamo <br><strong>Lucas Paguetti</strong></h1>
 
 <p align="center">
