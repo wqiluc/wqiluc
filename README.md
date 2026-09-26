@@ -55,11 +55,18 @@ Monitoria pela **Cesar School** `2026.2` \
 `Python`, `SQL`, `Automações`, `IA`, `Dados`. \
 <br/>
 
-<img align="left" height="64px" width="64px" alt="Ideathon RFEC" src="./img/RedBull_logo_square.jpeg"/>
+[<img align="left" height="64px" width="64px" alt="DAI" src="./img/DAI_icone.jpeg"/>](https://github.com/wqiluc/Ideathon_Rfec_2026_2_MVP-DAI)
 
-**Ideathon RFEC: DAI** `01.08` \
+**Ideathon RFEC** `01.08` • [**DAI — Dados de Acessibilidade e Identificação 🆔🚑**](https://github.com/wqiluc/Ideathon_Rfec_2026_2_MVP-DAI) \
 Ideathon promovido pela **RFEC**, em parceria com FIAP, HostGator e Red Bull \
 `DAI`, `Inovação`, `Ideação`, `Trabalho em Equipe`. \
+<br/>
+
+[<img align="left" height="64px" width="64px" alt="Globo" src="./img/globo_icone.jpg"/>](https://github.com/i-barbosa/LocalizAcao)
+
+**Hackathon: Recriando a Cidade** `19.09` • [**LocalizAção — Trajeto Seguro 📍**](https://github.com/i-barbosa/LocalizAcao) \
+Hackathon da **Prefeitura do Recife / Uninassau** • Trilha Segurança \
+`Segurança Urbana`, `Pesquisa de Campo`, `Dados`, `Prototipação`, <br>`Melhorias no Recife`. \
 <br/>
 
 <h2 align="center">☎️ Contato</h2>
