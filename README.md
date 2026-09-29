@@ -424,6 +424,29 @@ Hackathon da **Prefeitura do Recife / Uninassau** • Trilha Segurança \
 
 <br>
 
+<p align="center" style="font-size:1.2em;">
+  <strong>1️⃣2️⃣ 📍🛡️ LocalizAção — Trajeto Seguro</strong>
+</p>
+<p align="center"><strong>Concluído ✅</strong></p>
+<p align="center" style="font-size:1.1em;">
+  <a href="https://github.com/i-barbosa/LocalizAcao">🔗 Ver Projeto ==> </a>
+</p>
+<p align="center"><b>Criado no Hackathon Recriando a Cidade (Prefeitura do Recife / Emprel, Uninassau Graças — 19/09/2026), na Trilha Segurança, por uma equipe de 9 integrantes (repositório hospedado na conta do colega Italo Vinicius). O LocalizAção transforma a percepção de insegurança dos estudantes da RMR no deslocamento até a faculdade em dado acionável: coleta relatos geolocalizados (com consentimento) por dois canais — uma tela "Conectar" disfarçada de login de Wi-Fi público e o Google Forms —, agrega as respostas e entrega um painel público (Geral · Gênero · Turno · Demandas · Depoimentos) para a gestão da cidade decidir onde investir em iluminação, policiamento e pontos de ônibus. Com 83 respostas coletadas, 81% dos estudantes relataram não se sentir seguros no trajeto.</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Claude%20Artifacts-111827?style=flat-square&logo=claude&logoColor=D97757"/>
+  <img src="https://img.shields.io/badge/-Figma%20Make-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/-Google%20Forms-111827?style=flat-square&logo=googleforms&logoColor=7248B9"/>
+  <img src="https://img.shields.io/badge/-Google%20Sheets-111827?style=flat-square&logo=googlesheets&logoColor=34A853"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Pages-111827?style=flat-square&logo=githubpages&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-📊%20Pesquisa%20de%20Campo-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-🔒%20LGPD-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-📋%20Gestão%20de%20Projetos-111827?style=flat-square"/>
+</p>
+<p align="center"><strong>Protótipo de Hackathon (B2G)</strong></p>
+
+<br>
+
 <h2 align="center">📚✅ Estudos e Certificações</h2>
 
 <p align="center" style="font-size:1.2em;"> Algoritmos / Lógica de Programação — Hasgtag Treinamentos</p>
