@@ -6,7 +6,7 @@
 Me chamo <br><strong>Lucas Paguetti</strong></h1>
 
 <p align="center">
-Desenvolvedor Backend && Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. Desenvolvedor que busca solucionar problemas reais e facilitar a vida com tecnologia.
+Desenvolvedor Backend em formação & Estudante da Cesar School no curso de Análise e Desenvolvimento de Sistemas. Desenvolvedor que busca solucionar problemas reais e facilitar a vida com tecnologia.
 </p>
 <br>
 <p align="center">
